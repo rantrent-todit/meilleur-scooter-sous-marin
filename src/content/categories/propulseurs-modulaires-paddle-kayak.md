@@ -1,7 +1,7 @@
 ---
 titre_h1: "Propulseurs modulaires pour paddle et kayak"
-titre_seo: "Meilleurs Propulseurs Modulaires Paddle et Kayak : Comparatif et Guide d'Achat | AquaPropulse"
-description_seo: "Engins polyvalents utilisables en plongée manuelle ou adaptables sous la carène d'un stand up paddle ou d'un kayak pour une assistance électrique."
+titre_seo: "Meilleurs Moteurs et Propulseurs pour Paddle et Kayak : Comparatif"Achat | AquaPropulse"
+description_seo: "Transformez votre Stand Up Paddle ou kayak grâce aux propulseurs électriques modulaires. Guide comparatif des meilleurs systèmes hybrides du marché."un stand up paddle ou d'un kayak pour une assistance électrique."
 faq:
   - q: "Quels sont les critères essentiels pour choisir un modèle dans la catégorie Propulseurs Modulaires Paddle et Kayak ?"
     r: "Examinez attentivement les spécifications techniques, la qualité des composants, l'ergonomie d'utilisation et les retours d'expérience vérifiés d'utilisateurs exigeants."

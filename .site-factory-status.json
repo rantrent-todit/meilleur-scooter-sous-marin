@@ -3,7 +3,7 @@
   "domain": "meilleur-scooter-sous-marin.fr",
   "siteName": "AquaPropulse",
   "amazonTag": "amazonwp0b-21",
-  "status": "in_progress",
+  "status": "completed",
   "startedAt": "2026-11-25T13:38:52.013Z",
   "lastUpdated": "2026-11-25T14:05:27.794Z",
   "totalProducts": 24,
@@ -309,5 +309,20 @@
       "status": "pending",
       "words": 0
     }
-  ]
+  ],
+  "completedAt": "2026-11-25T14:05:38.369Z",
+  "git": {
+    "success": true,
+    "createdNewCommit": true,
+    "nothingToCommit": false,
+    "alreadyUpToDate": false,
+    "commitSha": "b621d3bd9323eda320493d2dd97897da29da3ae9",
+    "commitShortSha": "b621d3b",
+    "commitMessage": "feat(site): initialisation du site AquaPropulse (24 fiches, 0 comparatifs)",
+    "commitUrl": "https://github.com/rantrent-todit/meilleur-scooter-sous-marin/commit/b621d3bd9323eda320493d2dd97897da29da3ae9",
+    "repoUrl": "https://github.com/rantrent-todit/meilleur-scooter-sous-marin",
+    "repoName": "rantrent-todit/meilleur-scooter-sous-marin",
+    "isVerifiedOnRemote": true,
+    "filesChangedCount": 11
+  }
 }

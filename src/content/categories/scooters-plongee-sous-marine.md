@@ -1,7 +1,7 @@
 ---
 titre_h1: "Scooters pour plongée sous-marine bouteille"
-titre_seo: "Meilleurs Scooters de Plongée Bouteille : Comparatif et Guide d'Achat | AquaPropulse"
-description_seo: "Sélection des propulseurs étanches haute résistance conçus pour explorer les fonds marins avec bloc de plongée jusqu'à quarante mètres de profondeur."
+titre_seo: "Meilleurs Scooters de Plongée Bouteille (DPV) : Comparatif et Guide"Achat | AquaPropulse"
+description_seo: "Comparez les propulseurs sous-marins étanches à plus de 30 mètres conçus pour la plongée en scaphandre. Puissance, autonomie et sécurité décryptées."à quarante mètres de profondeur."
 faq:
   - q: "Quels sont les critères essentiels pour choisir un modèle dans la catégorie Scooters de Plongée Bouteille ?"
     r: "Examinez attentivement les spécifications techniques, la qualité des composants, l'ergonomie d'utilisation et les retours d'expérience vérifiés d'utilisateurs exigeants."
