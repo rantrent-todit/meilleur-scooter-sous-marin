@@ -1,0 +1,313 @@
+{
+  "folderName": "meilleur-scooter-sous-marin",
+  "domain": "meilleur-scooter-sous-marin.fr",
+  "siteName": "AquaPropulse",
+  "amazonTag": "amazonwp0b-21",
+  "status": "in_progress",
+  "startedAt": "2026-11-25T13:38:52.013Z",
+  "lastUpdated": "2026-11-25T14:05:27.794Z",
+  "totalProducts": 24,
+  "completedCount": 24,
+  "products": [
+    {
+      "asin": "B0F7HKD7TB",
+      "title": "Lefeet P1 Lite",
+      "titre_h1": "Lefeet P1 Lite",
+      "slug": "lefeet-p1-lite",
+      "categories": [
+        "scooters-compacts-voyage",
+        "propulseurs-modulaires-paddle-kayak",
+        "scooters-recreatifs-snorkeling"
+      ],
+      "status": "completed",
+      "words": 2069
+    },
+    {
+      "asin": "B0D4V6TFHR",
+      "title": "Waydoo Subnado Lite",
+      "titre_h1": "Waydoo Subnado Lite",
+      "slug": "waydoo-subnado-lite",
+      "categories": [
+        "scooters-compacts-voyage",
+        "scooters-sous-marins-economiques",
+        "scooters-recreatifs-snorkeling"
+      ],
+      "status": "completed",
+      "words": 2436
+    },
+    {
+      "asin": "B0H2LGHFDZ",
+      "title": "Scooter sous-marin bi-moteur 50 m",
+      "titre_h1": "Scooter sous-marin bi-moteur 50 m",
+      "slug": "scooter-sous-marin-bi-moteur-50m",
+      "categories": [
+        "scooters-double-moteur",
+        "scooters-plongee-sous-marine"
+      ],
+      "status": "completed",
+      "words": 1869
+    },
+    {
+      "asin": "B0HHDD9BKR",
+      "title": "Smaco B2 (1,8 m/s)",
+      "titre_h1": "Smaco B2 (1,8 m/s)",
+      "slug": "smaco-b2",
+      "categories": [
+        "scooters-recreatifs-snorkeling",
+        "scooters-double-moteur",
+        "scooters-plongee-sous-marine"
+      ],
+      "status": "completed",
+      "words": 2102
+    },
+    {
+      "asin": "B0BP6WL2XS",
+      "title": "Waydoo Subnado Kit SUP",
+      "titre_h1": "Waydoo Subnado Kit SUP",
+      "slug": "waydoo-subnado-kit-sup",
+      "categories": [
+        "propulseurs-modulaires-paddle-kayak",
+        "scooters-compacts-voyage"
+      ],
+      "status": "completed",
+      "words": 2066
+    },
+    {
+      "asin": "B082ND166X",
+      "title": "Asiwo Seascooter bi-moteur",
+      "titre_h1": "Asiwo Seascooter bi-moteur",
+      "slug": "asiwo-seascooter-bi-moteur",
+      "categories": [
+        "scooters-double-moteur",
+        "scooters-recreatifs-snorkeling"
+      ],
+      "status": "completed",
+      "words": 1947
+    },
+    {
+      "asin": "B0GWQRPZCG",
+      "title": "Smaco Trottinette sous-marine",
+      "titre_h1": "Smaco Trottinette sous-marine",
+      "slug": "smaco-trottinette-sous-marine",
+      "categories": [
+        "scooters-recreatifs-snorkeling",
+        "scooters-sous-marins-economiques"
+      ],
+      "status": "completed",
+      "words": 2611
+    },
+    {
+      "asin": "B0DDC5D563",
+      "title": "OMPHOBBY Edge K5",
+      "titre_h1": "OMPHOBBY Edge K5",
+      "slug": "omphobby-edge-k5",
+      "categories": [
+        "scooters-recreatifs-snorkeling",
+        "scooters-compacts-voyage"
+      ],
+      "status": "completed",
+      "words": 2329
+    },
+    {
+      "asin": "B0C2VD46WH",
+      "title": "Waydoo Subnado",
+      "titre_h1": "Waydoo Subnado",
+      "slug": "waydoo-subnado",
+      "categories": [
+        "scooters-compacts-voyage",
+        "propulseurs-modulaires-paddle-kayak",
+        "scooters-recreatifs-snorkeling"
+      ],
+      "status": "completed",
+      "words": 2134
+    },
+    {
+      "asin": "B0FHBF8XHW",
+      "title": "Waydoo Subnado Plus (800W)",
+      "titre_h1": "Waydoo Subnado Plus (800W)",
+      "slug": "waydoo-subnado-plus",
+      "categories": [
+        "scooters-compacts-voyage",
+        "propulseurs-modulaires-paddle-kayak",
+        "scooters-plongee-sous-marine"
+      ],
+      "status": "completed",
+      "words": 2330
+    },
+    {
+      "asin": "B0F87ZKQ1D",
+      "title": "Scooter sous-marin bi-vitesse",
+      "titre_h1": "Scooter sous-marin bi-vitesse",
+      "slug": "scooter-sous-marin-bi-vitesse",
+      "categories": [
+        "scooters-recreatifs-snorkeling",
+        "scooters-sous-marins-economiques"
+      ],
+      "status": "completed",
+      "words": 2137
+    },
+    {
+      "asin": "B0D8ZGWG3Z",
+      "title": "Scooter Sous-Marin Électrique 500W",
+      "titre_h1": "Scooter Sous-Marin Électrique 500W",
+      "slug": "scooter-sous-marin-electrique-500w",
+      "categories": [
+        "scooters-recreatifs-snorkeling",
+        "scooters-plongee-sous-marine"
+      ],
+      "status": "completed",
+      "words": 2130
+    },
+    {
+      "asin": "B0G2RLHYFS",
+      "title": "Asiwo Manta 2 (Double Moteur)",
+      "titre_h1": "Asiwo Manta 2 (Double Moteur)",
+      "slug": "asiwo-manta-2",
+      "categories": [
+        "scooters-double-moteur",
+        "scooters-recreatifs-snorkeling",
+        "scooters-compacts-voyage"
+      ],
+      "status": "completed",
+      "words": 2393
+    },
+    {
+      "asin": "B0976TNTYD",
+      "title": "Sublue Navbow+ (40 m, 7,2 km/h)",
+      "titre_h1": "Sublue Navbow+ (40 m, 7,2 km/h)",
+      "slug": "sublue-navbow-plus",
+      "categories": [
+        "scooters-plongee-sous-marine",
+        "scooters-double-moteur",
+        "scooters-apnee-immersion"
+      ],
+      "status": "completed",
+      "words": 1995
+    },
+    {
+      "asin": "B0CJ2Z7NSF",
+      "title": "Propulseur Aquatique Polyvalent 500W",
+      "titre_h1": "Propulseur Aquatique Polyvalent 500W",
+      "slug": "propulseur-aquatique-polyvalent-500w",
+      "categories": [
+        "propulseurs-modulaires-paddle-kayak",
+        "scooters-recreatifs-snorkeling"
+      ],
+      "status": "completed",
+      "words": 2098
+    },
+    {
+      "asin": "B096LS6ZQS",
+      "title": "Sublue Navbow Plus Smart (Orange)",
+      "titre_h1": "Sublue Navbow Plus Smart (Orange)",
+      "slug": "sublue-navbow-plus-orange",
+      "categories": [
+        "scooters-plongee-sous-marine",
+        "scooters-double-moteur",
+        "scooters-apnee-immersion"
+      ],
+      "status": "completed",
+      "words": 1712
+    },
+    {
+      "asin": "B0GWQTRD56",
+      "title": "SMACO B2 (60 m, 6,4 km/h)",
+      "titre_h1": "SMACO B2 (60 m, 6,4 km/h)",
+      "slug": "smaco-b2",
+      "categories": [
+        "scooters-plongee-sous-marine",
+        "scooters-professionnels-exploration",
+        "scooters-recreatifs-snorkeling"
+      ],
+      "status": "pending",
+      "words": 0
+    },
+    {
+      "asin": "B0GSJFG4QZ",
+      "title": "Scooter Sous-Marin 500W Double Vitesse",
+      "titre_h1": "Scooter Sous-Marin 500W Double Vitesse",
+      "slug": "scooter-sous-marin-500w-double-vitesse",
+      "categories": [
+        "scooters-sous-marins-economiques",
+        "scooters-recreatifs-snorkeling"
+      ],
+      "status": "completed",
+      "words": 1868
+    },
+    {
+      "asin": "B0CH9ZZ7XP",
+      "title": "Scooter de Mer Électrique 500W",
+      "titre_h1": "Scooter de Mer Électrique 500W",
+      "slug": "scooter-de-mer-electrique-500w",
+      "categories": [
+        "scooters-sous-marins-economiques",
+        "scooters-recreatifs-snorkeling"
+      ],
+      "status": "completed",
+      "words": 2138
+    },
+    {
+      "asin": "B0FCYXS9TX",
+      "title": "Propulseur Sous-Marin 500W 16Ah",
+      "titre_h1": "Propulseur Sous-Marin 500W 16Ah",
+      "slug": "propulseur-sous-marin-500w-16ah",
+      "categories": [
+        "scooters-grande-autonomie",
+        "propulseurs-modulaires-paddle-kayak",
+        "scooters-recreatifs-snorkeling"
+      ],
+      "status": "completed",
+      "words": 1763
+    },
+    {
+      "asin": "B0H117T9H5",
+      "title": "Sea Scooter Compact 650W (40 m)",
+      "titre_h1": "Sea Scooter Compact 650W (40 m)",
+      "slug": "sea-scooter-compact-650w",
+      "categories": [
+        "scooters-compacts-voyage",
+        "scooters-plongee-sous-marine"
+      ],
+      "status": "completed",
+      "words": 2151
+    },
+    {
+      "asin": "B0F6CLKQ6Z",
+      "title": "Scooter Sous-Marin Électrique 20M Double",
+      "titre_h1": "Scooter Sous-Marin Électrique 20M Double",
+      "slug": "scooter-sous-marin-electrique-20m-double",
+      "categories": [
+        "scooters-double-moteur",
+        "scooters-recreatifs-snorkeling",
+        "scooters-sous-marins-economiques"
+      ],
+      "status": "completed",
+      "words": 1980
+    },
+    {
+      "asin": "B0DRYQ1GM5",
+      "title": "Scooter Sous-Marin Ergonomique Longue Durée",
+      "titre_h1": "Scooter Sous-Marin Ergonomique Longue Durée",
+      "slug": "scooter-sous-marin-ergonomique-longue-duree",
+      "categories": [
+        "scooters-grande-autonomie",
+        "scooters-recreatifs-snorkeling"
+      ],
+      "status": "completed",
+      "words": 2395
+    },
+    {
+      "asin": "B0D91HKQXZ",
+      "title": "Scooter sous-marin électrique 500W (30 m)",
+      "titre_h1": "Scooter sous-marin électrique 500W (30 m)",
+      "slug": "scooter-sous-marin-electrique-500w",
+      "categories": [
+        "scooters-plongee-sous-marine",
+        "scooters-sous-marins-economiques",
+        "scooters-recreatifs-snorkeling"
+      ],
+      "status": "pending",
+      "words": 0
+    }
+  ]
+}
