@@ -3,7 +3,7 @@ titre: "Smaco Trottinette sous-marine"
 titre_h1: "Avis Smaco Trottinette sous-marine"
 description_courte: "Un scooter sous-marin polyvalent et accessible signé Smaco, conçu pour tracter les plongeurs et amateurs de snorkeling avec aisance et fluidité."
 description_longue: "Découvrez notre évaluation technique et détaillée de la trottinette sous-marine Smaco. Entre maniabilité aquatique, propulsion à double vitesse et autonomie de batterie, explorez les capacités réelles de cet équipement de loisir subaquatique à travers nos tests vérifiés."
-categories: ["scooters-recreatifs-snorkeling","scooters-sous-marins-economiques"]
+categories: ["scooters-recreatifs-snorkeling","scooters-sous-marins-pas-cher"]
 image_url: "https://m.media-amazon.com/images/I/71FU5NgLbAL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0GWQRPZCG/?tag=amazonwp0b-21"
 meta_title: "Avis Smaco Trottinette sous-marine"

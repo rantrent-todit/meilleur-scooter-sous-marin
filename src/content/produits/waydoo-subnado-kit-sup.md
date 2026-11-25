@@ -3,7 +3,7 @@ titre: "Waydoo Subnado Kit SUP"
 titre_h1: "Avis Waydoo Subnado Kit SUP"
 description_courte: "Test vérifié et avis détaillé sur le Waydoo Subnado Kit SUP. Découvrez le comportement aquatique, l'installation sur paddle et l'autonomie."
 description_longue: "Analyse technique complète et avis d'expert sur le Waydoo Subnado Kit SUP. Motorisation électrique compacte pour stand up paddle, ergonomie de la télécommande et retour d'usage terrain."
-categories: ["propulseurs-modulaires-paddle-kayak","scooters-compacts-voyage"]
+categories: ["propulseurs-hybrides-paddle-kayak","scooters-compacts-voyage"]
 image_url: "https://m.media-amazon.com/images/I/6180veL+nJL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0BP6WL2XS/?tag=amazonwp0b-21"
 meta_title: "Avis Waydoo Subnado Kit SUP"

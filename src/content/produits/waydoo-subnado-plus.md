@@ -3,7 +3,7 @@ titre: "Waydoo Subnado Plus (800W)"
 titre_h1: "Avis Waydoo Subnado Plus (800W)"
 description_courte: "Découvrez notre analyse détaillée et test complet du scooter sous-marin compact Waydoo Subnado Plus 800W pour plongée, paddle et snorkeling."
 description_longue: "Le Waydoo Subnado Plus développe 800W de puissance dans un gabarit ultra-compact. Pensé pour la plongée, le snorkeling et la motorisation d'embarcations légères, il redéfinit la propulsion aquatique nomade."
-categories: ["scooters-compacts-voyage","propulseurs-modulaires-paddle-kayak","scooters-plongee-sous-marine"]
+categories: ["scooters-compacts-voyage","propulseurs-hybrides-paddle-kayak","scooters-plongee-sous-marine"]
 image_url: "https://m.media-amazon.com/images/I/617GtI8QPiL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0FHBF8XHW/?tag=amazonwp0b-21"
 meta_title: "Avis Waydoo Subnado Plus (800W)"

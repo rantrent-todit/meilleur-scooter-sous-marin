@@ -3,7 +3,7 @@ titre: "Waydoo Subnado Lite"
 titre_h1: "Avis Waydoo Subnado Lite"
 description_courte: "Découvrez notre avis vérifié sur le Waydoo Subnado Lite. Un propulseur sous-marin ultra-compact, puissant et adapté à toute la famille en piscine."
 description_longue: "Le Waydoo Subnado Lite redéfinit la mobilité aquatique avec un format tubulaire de poche, une turbine sécurisée pour toute la famille et une polyvalence remarquable. Retrouvez notre test vérifié complet, l'analyse des retours d'expérience réels et notre verdict technique."
-categories: ["scooters-compacts-voyage","scooters-recreatifs-snorkeling","scooters-sous-marins-economiques"]
+categories: ["scooters-compacts-voyage","scooters-recreatifs-snorkeling","scooters-sous-marins-pas-cher"]
 image_url: "https://m.media-amazon.com/images/I/41Bi8ti4z3L._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0D4V6TFHR/?tag=amazonwp0b-21"
 meta_title: "Avis Waydoo Subnado Lite"

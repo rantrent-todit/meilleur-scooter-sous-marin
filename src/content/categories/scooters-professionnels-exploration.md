@@ -1,7 +1,7 @@
 ---
 titre_h1: "Scooters sous-marins professionnels"
-titre_seo: "Meilleurs Scooters Professionnels et Exploration : Comparatif et Guide d'Achat"Achat | AquaPropulse"
-description_seo: "Pour les explorations profondes et plongées spéléo : sélection des scooters sous-marins professionnels et DPV haute performance testés par des experts."
+titre_seo: "Meilleurs Scooters Sous-Marins Professionnels : Comparatif et Guide d'Achat"Achat"Achat | AquaPropulse"
+description_seo: "Sélection des meilleurs propulseurs de plongée techniques (DPV) et d'exploration : profondeur extrême, robustesse et autonomie maximale."
 faq:
   - q: "Quels sont les critères essentiels pour choisir un modèle dans la catégorie Scooters Professionnels et Exploration ?"
     r: "Examinez attentivement les spécifications techniques, la qualité des composants, l'ergonomie d'utilisation et les retours d'expérience vérifiés d'utilisateurs exigeants."

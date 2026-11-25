@@ -3,7 +3,7 @@ titre: "Waydoo Subnado"
 titre_h1: "Avis Waydoo Subnado"
 description_courte: "Avis vérifié et test complet du scooter sous-marin Waydoo Subnado. Analyse technique, autonomie, ergonomie et verdict de nos spécialistes."
 description_longue: "Découvrez notre analyse détaillée du propulseur aquatique ultra-compact Waydoo Subnado. Évaluation des performances réelles, modularité et retours terrain."
-categories: ["scooters-compacts-voyage","propulseurs-modulaires-paddle-kayak","scooters-recreatifs-snorkeling"]
+categories: ["scooters-compacts-voyage","propulseurs-hybrides-paddle-kayak","scooters-recreatifs-snorkeling"]
 image_url: "https://m.media-amazon.com/images/I/41QD5ZAWFcL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0C2VD46WH/?tag=amazonwp0b-21"
 meta_title: "Avis Waydoo Subnado"

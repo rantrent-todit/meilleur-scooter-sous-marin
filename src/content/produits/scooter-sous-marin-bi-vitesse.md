@@ -3,7 +3,7 @@ titre: "Scooter sous-marin bi-vitesse"
 titre_h1: "Avis Scooter sous-marin bi-vitesse"
 description_courte: "Découvrez notre test vérifié du Scooter sous-marin bi-vitesse : propulsion modulable, autonomie sur l'eau et comportement dynamique en immersion."
 description_longue: "Analyse technique détaillée et retour d'expérience complet sur le Scooter sous-marin bi-vitesse. Découvrez ses performances hydrodynamiques, son autonomie réelle, son niveau sonore et son comportement lors de nos tests vérifiés en conditions réelles."
-categories: ["scooters-recreatifs-snorkeling","scooters-sous-marins-economiques"]
+categories: ["scooters-recreatifs-snorkeling","scooters-sous-marins-pas-cher"]
 image_url: "https://m.media-amazon.com/images/I/71eUrrtqCQL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0F87ZKQ1D/?tag=amazonwp0b-21"
 meta_title: "Avis Scooter sous-marin bi-vitesse"
