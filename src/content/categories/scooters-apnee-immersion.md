@@ -1,7 +1,7 @@
 ---
 titre_h1: "Scooters pour apnée et immersion libre"
-titre_seo: "Meilleurs Scooters d'Apnée et Immersion Libre : Comparatif et Guide d'Achat | AquaPropulse"
-description_seo: "Découvrez les propulseurs sous-marins silencieux et compacts optimisés pour les apnéistes et la descente en profondeur sans effort."
+titre_seo: "Meilleurs Scooters d'Apnée et Immersion : Guide et Comparatif"Apnée et Immersion Libre : Comparatif et Guide d'Achat | AquaPropulse"
+description_seo: "Découvrez notre comparatif des meilleurs scooters sous-marins dédiés à l'apnée et à la chasse sous-marine : compacité, silence moteur et profondeur maximale."
 faq:
   - q: "Quels sont les critères essentiels pour choisir un modèle dans la catégorie Scooters d'Apnée et Immersion Libre ?"
     r: "Examinez attentivement les spécifications techniques, la qualité des composants, l'ergonomie d'utilisation et les retours d'expérience vérifiés d'utilisateurs exigeants."

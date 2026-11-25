@@ -3,7 +3,7 @@ titre: "Scooter de Mer Électrique 500W"
 titre_h1: "Avis Scooter de Mer Électrique 500W"
 description_courte: "Découvrez notre test vérifié du Scooter de Mer Électrique 500W : motorisation puissante, ergonomie soignée et sensations garanties sous l'eau."
 description_longue: "Analyse technique et détaillée du Scooter de Mer Électrique 500W sur AquaPropulse. Retours d'expérience, autonomie, vitesse et avis de nos experts."
-categories: ["scooters-sous-marins-economiques","scooters-recreatifs-snorkeling"]
+categories: ["scooters-recreatifs-snorkeling","scooters-sous-marins-economiques"]
 image_url: "https://m.media-amazon.com/images/I/61xFXaosBTL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0CH9ZZ7XP/?tag=amazonwp0b-21"
 meta_title: "Avis Scooter de Mer Électrique 500W"

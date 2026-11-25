@@ -3,7 +3,7 @@ titre: "Sublue Navbow+ (40 m, 7,2 km/h)"
 titre_h1: "Avis Sublue Navbow+ (40 m, 7,2 km/h)"
 description_courte: "Découvrez notre test vérifié du propulseur Sublue Navbow+. Analyse technique complète des 7,2 km/h, immersion à 40 m et autonomie réelle."
 description_longue: "Propulseur sous-marin haut de gamme conçu pour la plongée technique, l'apnée et l'exploration aquatique, le Sublue Navbow+ combine une vitesse de pointe de 7,2 km/h avec un écran de contrôle OLED avancé et une étanchéité certifiée à 40 mètres de profondeur."
-categories: ["scooters-plongee-sous-marine","scooters-double-moteur","scooters-apnee-immersion"]
+categories: ["scooters-double-moteur","scooters-plongee-sous-marine","scooters-professionnels-exploration"]
 image_url: "https://m.media-amazon.com/images/I/61UwT6agQEL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0976TNTYD/?tag=amazonwp0b-21"
 meta_title: "Avis Sublue Navbow+ (40 m, 7,2 km/h)"

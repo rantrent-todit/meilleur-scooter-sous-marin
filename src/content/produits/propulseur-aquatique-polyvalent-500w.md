@@ -3,7 +3,7 @@ titre: "Propulseur Aquatique Polyvalent 500W"
 titre_h1: "Avis Propulseur Aquatique Polyvalent 500W"
 description_courte: "Test vérifié du Propulseur Aquatique Polyvalent 500W : analyse technique, poussée moteur, autonomie en immersion et avis détaillé de nos experts."
 description_longue: "Découvrez notre évaluation complète et notre avis vérifié sur le Propulseur Aquatique Polyvalent 500W. Conçu pour motoriser aussi bien les embarcations légères de type stand-up paddle ou kayak que pour accompagner les sorties de snorkeling récréatif, ce modèle hybride combine un moteur sans balais efficace et une conception étanche éprouvée."
-categories: ["propulseurs-modulaires-paddle-kayak","scooters-recreatifs-snorkeling"]
+categories: ["scooters-apnee-immersion","scooters-recreatifs-snorkeling"]
 image_url: "https://m.media-amazon.com/images/I/61g5kA5pQWL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0CJ2Z7NSF/?tag=amazonwp0b-21"
 meta_title: "Avis Propulseur Aquatique Polyvalent 500W"

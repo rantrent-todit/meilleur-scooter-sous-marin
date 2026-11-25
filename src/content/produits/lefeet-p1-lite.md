@@ -3,7 +3,7 @@ titre: "Lefeet P1 Lite"
 titre_h1: "Avis Lefeet P1 Lite"
 description_courte: "Découvrez notre test vérifié du Lefeet P1 Lite : un scooter sous-marin modulaire compact, performant pour le snorkeling, paddle et plongée."
 description_longue: "Analyse technique détaillée et avis vérifié sur le propulseur aquatique Lefeet P1 Lite. Étude complète de sa motorisation, de son autonomie, de sa modularité et de son comportement en milieu marin."
-categories: ["scooters-compacts-voyage","propulseurs-modulaires-paddle-kayak","scooters-recreatifs-snorkeling"]
+categories: ["propulseurs-modulaires-paddle-kayak","scooters-compacts-voyage","scooters-recreatifs-snorkeling"]
 image_url: "https://m.media-amazon.com/images/I/51X0A8UjM5L._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0F7HKD7TB/?tag=amazonwp0b-21"
 meta_title: "Avis Lefeet P1 Lite"

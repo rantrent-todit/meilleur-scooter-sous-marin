@@ -3,7 +3,7 @@ titre: "Scooter sous-marin bi-moteur 50 m"
 titre_h1: "Avis Scooter sous-marin bi-moteur 50 m"
 description_courte: "Découvrez le scooter sous-marin bi-moteur 50 m : propulsion puissante, immersion jusqu'à 50 mètres et autonomie idéale pour l'exploration aquatique."
 description_longue: "Analyse technique et détaillée du scooter sous-marin bi-moteur 50 m. Ce propulseur aquatique compact associe une double motorisation électrique à une étanchéité certifiée pour les explorations sous-marines jusqu'à 50 mètres de profondeur."
-categories: ["scooters-double-moteur","scooters-plongee-sous-marine"]
+categories: ["scooters-double-moteur","scooters-apnee-immersion","scooters-plongee-sous-marine"]
 image_url: "https://m.media-amazon.com/images/I/61tAHhL7OiL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0H2LGHFDZ/?tag=amazonwp0b-21"
 meta_title: "Avis Scooter sous-marin bi-moteur 50 m"

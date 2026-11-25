@@ -3,7 +3,7 @@ titre: "Propulseur Sous-Marin 500W 16Ah"
 titre_h1: "Avis Propulseur Sous-Marin 500W 16Ah"
 description_courte: "Propulseur sous-marin 500W avec batterie 16Ah : découvrez notre analyse technique complète, l'autonomie mesurée et notre avis d'expert vérifié."
 description_longue: "Analyse détaillée du propulseur sous-marin 500W 16Ah : étude de la motorisation brushless, autonomie de l'accumulateur haute capacité, comportement hydrodynamique et retours d'usage sur la durée pour le snorkeling et la plongée loisir."
-categories: ["scooters-grande-autonomie","propulseurs-modulaires-paddle-kayak","scooters-recreatifs-snorkeling"]
+categories: ["scooters-grande-autonomie","scooters-plongee-sous-marine"]
 image_url: "https://m.media-amazon.com/images/I/614T4FosFvL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0FCYXS9TX/?tag=amazonwp0b-21"
 meta_title: "Avis Propulseur Sous-Marin 500W 16Ah"

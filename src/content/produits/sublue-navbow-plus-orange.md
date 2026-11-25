@@ -3,7 +3,7 @@ titre: "Sublue Navbow Plus Smart (Orange)"
 titre_h1: "Avis Sublue Navbow Plus Smart (Orange)"
 description_courte: "Découvrez notre test vérifié du Sublue Navbow Plus Smart Orange : caractéristiques, puissance du double moteur, ergonomie et avis terrain complet."
 description_longue: "Examen technique approfondi du scooter sous-marin Sublue Navbow Plus Smart en livrée Orange. Analyse de la motorisation double hélice, de l'ordinateur de bord OLED, de l'autonomie et des retours d'expérience en immersion jusqu'à 40 mètres."
-categories: ["scooters-plongee-sous-marine","scooters-double-moteur","scooters-apnee-immersion"]
+categories: ["scooters-double-moteur","scooters-plongee-sous-marine","scooters-professionnels-exploration"]
 image_url: "https://m.media-amazon.com/images/I/51WTjviEdfL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B096LS6ZQS/?tag=amazonwp0b-21"
 meta_title: "Avis Sublue Navbow Plus Smart (Orange)"

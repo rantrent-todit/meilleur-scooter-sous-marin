@@ -3,7 +3,7 @@ titre: "Scooter Sous-Marin Électrique 20M Double"
 titre_h1: "Avis Scooter Sous-Marin Électrique 20M Double"
 description_courte: "Découvrez notre avis vérifié sur le Scooter Sous-Marin Électrique 20M Double : maniabilité aquatique, propulsion double moteur et autonomie réelle."
 description_longue: "Analyse technique et retour d'expérience complet sur le Scooter Sous-Marin Électrique 20M Double. Conception, poussée hydrodynamique, comportement en plongée jusqu'à vingt mètres et retours d'utilisateurs détaillés par nos spécialistes AquaPropulse."
-categories: ["scooters-double-moteur","scooters-recreatifs-snorkeling","scooters-sous-marins-economiques"]
+categories: ["scooters-double-moteur","scooters-recreatifs-snorkeling"]
 image_url: "https://m.media-amazon.com/images/I/51ZAhQMHV4L._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0F6CLKQ6Z/?tag=amazonwp0b-21"
 meta_title: "Avis Scooter Sous-Marin Électrique 20M Double"

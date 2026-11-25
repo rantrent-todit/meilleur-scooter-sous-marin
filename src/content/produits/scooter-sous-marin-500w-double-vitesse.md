@@ -3,7 +3,7 @@ titre: "Scooter Sous-Marin 500W Double Vitesse"
 titre_h1: "Avis Scooter Sous-Marin 500W Double Vitesse"
 description_courte: "Découvrez notre test vérifié du scooter sous-marin 500W : puissance, autonomie réelle et ergonomie aquatique analysées par nos spécialistes."
 description_longue: "Pensé pour le snorkeling récréatif et les explorations côtières, ce propulseur sous-marin de 500W à double vitesse combine compacité, flottabilité positive et puissance accessible. Découvrez l'analyse approfondie de notre test vérifié pour évaluer ses capacités aquatiques."
-categories: ["scooters-sous-marins-economiques","scooters-recreatifs-snorkeling"]
+categories: ["scooters-recreatifs-snorkeling","scooters-sous-marins-economiques"]
 image_url: "https://m.media-amazon.com/images/I/61mb8eo0R5L._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0GSJFG4QZ/?tag=amazonwp0b-21"
 meta_title: "Avis Scooter Sous-Marin 500W Double Vitesse"

@@ -3,7 +3,7 @@ titre: "Scooter sous-Marin Électrique 700W avec Poignée, Autonomie 180 Min Mer
 titre_h1: "Avis Scooter sous-Marin Électrique 700W avec Poignée, Autonomie 180 Min Mer Scooter, Batterie 16000mAh, 9 Vitesses Propulseur pour Plongée et Snorkeling Adultes"
 description_courte: "Propulseur sous-marin 700W avec batterie 16000mAh et 9 allures. Découvrez notre test vérifié, les mesures d'autonomie et le bilan terrain."
 description_longue: "Analyse technique détaillée et test complet du scooter sous-marin électrique 700W doté d'une batterie 16000mAh et de 9 vitesses. Découvrez les performances réelles de poussée, l'autonomie mesurée et l'ergonomie générale pour le snorkeling et la plongée loisir."
-categories: ["scooters-grande-autonomie"]
+categories: ["scooters-grande-autonomie","scooters-plongee-sous-marine","scooters-recreatifs-snorkeling"]
 image_url: "https://m.media-amazon.com/images/I/61833ZqllRL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0H2X7SXCL/?tag=amazonwp0b-21"
 meta_title: "Avis Scooter sous-Marin Électrique 700W avec Poignée, Autonomie 180 Min Mer Scooter, Batterie 16000mAh, 9 Vitesses Propulseur pour Plongée et Snorkeling Adultes"

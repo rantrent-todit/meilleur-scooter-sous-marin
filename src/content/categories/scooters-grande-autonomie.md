@@ -1,7 +1,7 @@
 ---
 titre_h1: "Scooters sous-marins à grande autonomie"
-titre_seo: "Meilleurs Scooters Grande Autonomie : Comparatif et Guide d'Achat | AquaPropulse"
-description_seo: "Sélection des propulseurs équipés de batteries haute capacité permettant des sessions d'immersion prolongées sans recharge fréquente."
+titre_seo: "Meilleurs Scooters Sous-Marins Grande Autonomie : Comparatif et Batterie"Achat | AquaPropulse"
+description_seo: "Comparez les propulseurs sous-marins offrant la plus longue durée de batterie pour des sessions aquatiques prolongées sans recharge fréquente."immersion prolongées sans recharge fréquente."
 faq:
   - q: "Quels sont les critères essentiels pour choisir un modèle dans la catégorie Scooters Grande Autonomie ?"
     r: "Examinez attentivement les spécifications techniques, la qualité des composants, l'ergonomie d'utilisation et les retours d'expérience vérifiés d'utilisateurs exigeants."

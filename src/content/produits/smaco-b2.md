@@ -3,7 +3,7 @@ titre: "SMACO B2 (60 m, 6,4 km/h)"
 titre_h1: "Avis SMACO B2 (60 m, 6,4 km/h)"
 description_courte: "Test vérifié du scooter sous-marin SMACO B2 : vitesse jusqu'à 6,4 km/h, étanchéité à 60 m et support caméra pour plongée et snorkeling complets."
 description_longue: "Découvrez notre avis vérifié sur le scooter sous-marin SMACO B2. Analyse complète de ses performances à 60 mètres, de sa vitesse de 6,4 km/h et de son autonomie pour la plongée et le snorkeling."
-categories: ["scooters-plongee-sous-marine","scooters-professionnels-exploration","scooters-recreatifs-snorkeling"]
+categories: ["scooters-plongee-sous-marine","scooters-compacts-voyage","scooters-apnee-immersion"]
 image_url: "https://m.media-amazon.com/images/I/51OS02oGwTL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0GWQTRD56/?tag=amazonwp0b-21"
 meta_title: "Avis SMACO B2 (60 m, 6,4 km/h)"

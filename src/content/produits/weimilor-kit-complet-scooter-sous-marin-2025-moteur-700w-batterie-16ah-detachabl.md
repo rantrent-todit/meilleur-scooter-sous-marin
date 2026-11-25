@@ -3,7 +3,7 @@ titre: "WEIMILOR Kit Complet Scooter sous-Marin actuel - Moteur 700W Batterie 16
 titre_h1: "Avis WEIMILOR Kit Complet Scooter sous-Marin actuel - Moteur 700W Batterie 16Ah Détachable + Lampe LED étanche - Autonomie 3h20 Profondeur 40m"
 description_courte: "Test vérifié du scooter sous-marin WEIMILOR 700W avec batterie 16Ah et phare LED : analyse de la poussée, de l'autonomie et de la maniabilité."
 description_longue: "Découvrez notre avis vérifié sur le scooter sous-marin WEIMILOR 700W. Un propulseur aquatique complet doté d'une imposante batterie amovible de 16Ah, d'un éclairage subaquatique dédié et d'une conception étanche certifiée pour descendre jusqu'à quarante mètres de profondeur."
-categories: ["scooters-grande-autonomie"]
+categories: ["scooters-grande-autonomie","scooters-plongee-sous-marine","scooters-apnee-immersion"]
 image_url: "https://m.media-amazon.com/images/I/61zV0RsV5FL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0F8TV5HY1/?tag=amazonwp0b-21"
 meta_title: "Avis WEIMILOR Kit Complet Scooter sous-Marin actuel - Moteur 700W Batterie 16Ah Détachable + Lampe LED étanche - Autonomie 3h20 Profondeur 40m"

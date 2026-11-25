@@ -3,7 +3,7 @@ titre: "Asiwo Manta 2 (Double Moteur)"
 titre_h1: "Avis Asiwo Manta 2 (Double Moteur)"
 description_courte: "Un scooter sous-marin bi-moteur puissant et endurant, pensé pour le snorkeling, l'exploration des fonds marins et le loisir aquatique familial."
 description_longue: "L'Asiwo Manta 2 s'impose comme une référence de la propulsion subaquatique récréative grâce à sa double turbine puissante, sa flottabilité positive sécurisante et sa gestion intelligente à trois vitesses. Conçu pour explorer les récifs en snorkeling comme pour tracter confortablement les plongeurs en apnée, cet appareil combine poussée dynamique, grande endurance d'accumulateur et ergonomie intuitive pour petits et grands."
-categories: ["scooters-double-moteur","scooters-recreatifs-snorkeling","scooters-compacts-voyage"]
+categories: ["scooters-double-moteur","scooters-recreatifs-snorkeling"]
 image_url: "https://m.media-amazon.com/images/I/51W6s6GIumL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0G2RLHYFS/?tag=amazonwp0b-21"
 meta_title: "Avis Asiwo Manta 2 (Double Moteur)"

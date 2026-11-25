@@ -3,7 +3,7 @@ titre: "OMPHOBBY Edge K5"
 titre_h1: "Avis OMPHOBBY Edge K5"
 description_courte: "Le scooter sous-marin OMPHOBBY Edge K5 allie compacité et poussée fluide pour le snorkeling récréatif. Retrouvez notre analyse technique complète."
 description_longue: "Découvrez notre test vérifié complet de l'OMPHOBBY Edge K5, un propulseur aquatique compact taillé pour l'exploration sous-marine récréative et le snorkeling dynamique. Nous passons au crible son architecture moteur, sa maniabilité, son autonomie réelle et sa durabilité face au milieu salin."
-categories: ["scooters-recreatifs-snorkeling","scooters-compacts-voyage"]
+categories: ["scooters-compacts-voyage","scooters-recreatifs-snorkeling"]
 image_url: "https://m.media-amazon.com/images/I/61KEgrduFvL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0DDC5D563/?tag=amazonwp0b-21"
 meta_title: "Avis OMPHOBBY Edge K5"
