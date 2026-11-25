@@ -1,7 +1,7 @@
 ---
 titre_h1: "Scooters sous-marins pas chers et d'entrée de gamme"
-titre_seo: "Meilleurs Scooters Sous-Marins Pas Chers : Guide d'Achat Petit Prix"Entrée de Gamme : Comparatif et Guide d'Achat | AquaPropulse"
-description_seo: "Profitez des joies de la propulsion sous-marine sans vous ruiner. Sélection rigoureuse des scooters aquatiques économiques les plus fiables et abordables."
+titre_seo: "Meilleurs Scooters Sous-Marins Pas Chers : Comparatif à Moins de 400€"Achat Petit Prix"Entrée de Gamme : Comparatif et Guide d'Achat | AquaPropulse"
+description_seo: "Trouvez un scooter aquatique performant sans vous ruiner. Comparatif des modèles au meilleur rapport qualité/prix testés pour petits budgets."
 faq:
   - q: "Quels sont les critères essentiels pour choisir un modèle dans la catégorie Scooters d'Entrée de Gamme ?"
     r: "Examinez attentivement les spécifications techniques, la qualité des composants, l'ergonomie d'utilisation et les retours d'expérience vérifiés d'utilisateurs exigeants."
