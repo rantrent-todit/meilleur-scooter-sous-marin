@@ -1,12 +1,12 @@
 ---
-titre: "Propulseur sous-Marin 500 W, Scooter des Mers avec Batterie Ultra-Longue autonomie, Booster de Natation pour la plongée, Le Snorkeling, Les Aventures en Piscine et en mer"
-titre_h1: "Avis Propulseur sous-Marin 500 W, Scooter des Mers avec Batterie Ultra-Longue autonomie, Booster de Natation pour la plongée, Le Snorkeling, Les Aventures en Piscine et en mer"
+titre: "Scooter des Mers 500W Grande Autonomie"
+titre_h1: "Avis Scooter des Mers 500W Grande Autonomie"
 description_courte: "Propulseur sous-marin 500 W pour plongée et snorkeling. Grande autonomie, poussée constante et maniabilité optimale testées par nos experts."
 description_longue: "Découvrez notre évaluation complète et notre test vérifié du propulseur sous-marin 500 W. Conçu pour la randonnée palmée, la plongée récréative et les loisirs aquatiques, cet équipement combine une motorisation électrique dynamique et une batterie longue durée pour décupler vos sensations sous l'eau."
 categories: ["scooters-grande-autonomie","scooters-plongee-sous-marine","scooters-recreatifs-snorkeling"]
 image_url: "https://m.media-amazon.com/images/I/61566bln0+L._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0GSH3VF7M/?tag=amazonwp0b-21"
-meta_title: "Avis Propulseur sous-Marin 500 W, Scooter des Mers avec Batterie Ultra-Longue autonomie, Booster de Natation pour la plongée, Le Snorkeling, Les Aventures en Piscine et en mer"
+meta_title: "Avis Scooter des Mers 500W Grande Autonomie"
 meta_description: "Avis et test vérifié du propulseur sous-marin 500 W : autonomie réelle, poussée aquatique, points forts et verdict complet de nos spécialistes."
 avis_clients:
   - auteur: "Alexandre M."

@@ -1,12 +1,12 @@
 ---
-titre: "Scooter sous-marin, propulseur de plongée et de natation, hélice sous-marine à double vitesse pour piscine, équipement de sport étanche pour la natation, la plongée avec tuba, les aventures,500W"
-titre_h1: "Avis Scooter sous-marin, propulseur de plongée et de natation, hélice sous-marine à double vitesse pour piscine, équipement de sport étanche pour la natation, la plongée avec tuba, les aventures,500W"
+titre: "Scooter sous-marin 500W double vitesse"
+titre_h1: "Avis Scooter sous-marin 500W double vitesse"
 description_courte: "Avis complet et test vérifié du scooter sous-marin 500W à double vitesse : étanchéité, autonomie, poussée et maniabilité aquatique passées au crible."
 description_longue: "Découvrez notre analyse technique détaillée et notre test vérifié du scooter sous-marin 500W. Conçu pour la piscine, la randonnée palmée et l'exploration côtière, ce propulseur aquatique compact propose deux vitesses de propulsion pour tracter nageurs et plongeurs sans effort superflu."
 categories: ["scooters-enfants-securises"]
 image_url: "https://m.media-amazon.com/images/I/713rRfODkLL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0DWW7GQZN/?tag=amazonwp0b-21"
-meta_title: "Avis Scooter sous-marin, propulseur de plongée et de natation, hélice sous-marine à double vitesse pour piscine, équipement de sport étanche pour la natation, la plongée avec tuba, les aventures,500W"
+meta_title: "Avis Scooter sous-marin 500W double vitesse"
 meta_description: "Avis et test vérifié sur le scooter sous-marin 500W AquaPropulse : double vitesse, autonomie, étanchéité en mer et verdict technique complet."
 avis_clients:
   - auteur: "Alexandre M."

@@ -1,12 +1,12 @@
 ---
-titre: "Scooter sous-Marin de Piscine, Scooter sous-Marin 500 W, Scooter de plongée pour Sports Nautiques avec poignée, Scooter Aquatique Portable pour Adultes et Enfants, Scooter de mer de plongée"
-titre_h1: "Avis Scooter sous-Marin de Piscine, Scooter sous-Marin 500 W, Scooter de plongée pour Sports Nautiques avec poignée, Scooter Aquatique Portable pour Adultes et Enfants, Scooter de mer de plongée"
+titre: "Scooter sous-marin de piscine 500W"
+titre_h1: "Avis Scooter sous-marin de piscine 500W"
 description_courte: "Test vérifié et avis complet sur le scooter sous-marin 500 W. Analyse de la propulsion, de l'autonomie et de la sécurité pour adultes et enfants."
 description_longue: "Découvrez notre évaluation technique détaillée de ce scooter aquatique compact de 500 W doté d'une poignée ergonomique. Un propulseur conçu aussi bien pour le loisir en piscine que pour les explorations côtières en snorkeling."
 categories: ["scooters-enfants-securises"]
 image_url: "https://m.media-amazon.com/images/I/7125UOD8buL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0DWVTZ7LY/?tag=amazonwp0b-21"
-meta_title: "Avis Scooter sous-Marin de Piscine, Scooter sous-Marin 500 W, Scooter de plongée pour Sports Nautiques avec poignée, Scooter Aquatique Portable pour Adultes et Enfants, Scooter de mer de plongée"
+meta_title: "Avis Scooter sous-marin de piscine 500W"
 meta_description: "Avis et test vérifié du scooter sous-marin 500 W pour piscine et plongée. Analyse de la poussée, de l'autonomie et verdict complet d'AquaPropulse."
 avis_clients:
   - auteur: "Alexandre M."

@@ -1,12 +1,12 @@
 ---
-titre: "TUDIVING - Propulsion sous-marine améliorée | 1 heure d'autonomie | Batterie amovible | Étanchéité IPX8 | Étanche jusqu'à 60 m | Trottinette sous-marine avec support de caméra d'action pour sports"
-titre_h1: "Avis TUDIVING - Propulsion sous-marine améliorée | 1 heure d'autonomie | Batterie amovible | Étanchéité IPX8 | Étanche jusqu'à 60 m | Trottinette sous-marine avec support de caméra d'action pour sports"
+titre: "TUDIVING Scooter sous-marin (60 m, autonomie 1h)"
+titre_h1: "Avis TUDIVING Scooter sous-marin (60 m, autonomie 1h)"
 description_courte: "Découvrez notre test vérifié du scooter sous-marin TUDIVING : étanchéité 60 m, autonomie d'une heure et batterie amovible pour vos immersions."
 description_longue: "Analyse technique détaillée et avis vérifié sur la trottinette sous-marine TUDIVING. Équipée d'une motorisation électrique optimisée, d'une batterie interchangeable et d'une conception étanche certifiée jusqu'à 60 mètres de profondeur, cette machine s'adresse aux adeptes de plongée et de randonnée subaquatique exigeants."
 categories: ["scooters-plongee-sous-marine","scooters-apnee-immersion","scooters-sous-marins-pas-cher"]
 image_url: "https://m.media-amazon.com/images/I/711VkOx9p+L._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0GYJ7S68K/?tag=amazonwp0b-21"
-meta_title: "Avis TUDIVING - Propulsion sous-marine améliorée | 1 heure d'autonomie | Batterie amovible | Étanchéité IPX8 | Étanche jusqu'à 60 m | Trottinette sous-marine avec support de caméra d'action pour sports"
+meta_title: "Avis TUDIVING Scooter sous-marin (60 m, autonomie 1h)"
 meta_description: "Test vérifié du scooter TUDIVING étanche à 60 m : autonomie réelle, poussée sous-marine, ergonomie et avis complet sur ce propulseur aquatique."
 avis_clients:
   - auteur: "Alexandre M."

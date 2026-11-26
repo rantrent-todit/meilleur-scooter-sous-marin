@@ -1,12 +1,12 @@
 ---
-titre: "LEFEET Trottinette sous-Marine C1 à Deux Moteurs : autonomie de la Batterie de 60 Min avec Support de caméra d'action IPX8 30 m étanche pour Sports Nautiques, Piscine, plongée sous-Marine pour"
-titre_h1: "Avis LEFEET Trottinette sous-Marine C1 à Deux Moteurs : autonomie de la Batterie de 60 Min avec Support de caméra d'action IPX8 30 m étanche pour Sports Nautiques, Piscine, plongée sous-Marine pour"
+titre: "LEFEET C1 Double Moteur"
+titre_h1: "Avis LEFEET C1 Double Moteur"
 description_courte: "Analyse détaillée et test vérifié du LEFEET C1, un propulseur aquatique compact à double moteur avec autonomie de 60 minutes et étanchéité IPX8."
 description_longue: "Découvrez notre évaluation approfondie de la trottinette sous-marine LEFEET C1. Doté d'une double propulsion électrique, d'une étanchéité certifiée jusqu'à 30 mètres de profondeur et d'une autonomie théorique de 60 minutes, ce scooter aquatique compact s'adresse aux passionnés de snorkeling, de natation et de plongée récréative. Retrouvez nos mesures réelles, le comportement sous l'eau et notre avis d'expert."
 categories: ["scooters-enfants-securises"]
 image_url: "https://m.media-amazon.com/images/I/614JWZ2EVfL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0GKNKK8P9/?tag=amazonwp0b-21"
-meta_title: "Avis LEFEET Trottinette sous-Marine C1 à Deux Moteurs : autonomie de la Batterie de 60 Min avec Support de caméra d'action IPX8 30 m étanche pour Sports Nautiques, Piscine, plongée sous-Marine pour"
+meta_title: "Avis LEFEET C1 Double Moteur"
 meta_description: "Avis vérifié et test complet du scooter sous-marin LEFEET C1 : double motorisation, étanchéité 30 m, autonomie et comportement aquatique en détail."
 avis_clients:
   - auteur: "Alexandre M."

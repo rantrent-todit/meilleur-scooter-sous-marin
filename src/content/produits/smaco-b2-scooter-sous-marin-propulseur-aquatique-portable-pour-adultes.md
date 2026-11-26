@@ -1,12 +1,12 @@
 ---
-titre: "SMACO B2 Scooter Sous-Marin, Propulseur Aquatique Portable pour Adultes"
-titre_h1: "Avis SMACO B2 Scooter Sous-Marin, Propulseur Aquatique Portable pour Adultes"
+titre: "SMACO B2 Scooter sous-marin portable"
+titre_h1: "Avis SMACO B2 Scooter sous-marin portable"
 description_courte: "Test vérifié du scooter sous-marin SMACO B2. Analyse de la vitesse de 1,8 m/s, autonomie de 56 min, ergonomie et fixation caméra pour plongée."
 description_longue: "Découvrez notre analyse détaillée du propulseur aquatique SMACO B2 : vitesse de pointe de 1,8 m/s, autonomie jusqu'à 56 minutes, support caméra d'action et comportement en immersion pour le snorkeling et la natation."
 categories: ["scooters-compacts-voyage","scooters-recreatifs-snorkeling","scooters-plongee-sous-marine"]
 image_url: "https://m.media-amazon.com/images/I/61y-T3q1z3L._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0HHDD9BKR/?tag=amazonwp0b-21"
-meta_title: "Avis SMACO B2 Scooter Sous-Marin, Propulseur Aquatique Portable pour Adultes"
+meta_title: "Avis SMACO B2 Scooter sous-marin portable"
 meta_description: "Test vérifié et avis d'expert sur le SMACO B2 Scooter Sous-Marin. Performances aquatiques, autonomie réelle de 56 min et analyse technique complète."
 avis_clients:
   - auteur: "Alexandre M."

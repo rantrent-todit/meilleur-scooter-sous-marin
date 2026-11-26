@@ -2,10 +2,10 @@
   "folderName": "meilleur-scooter-sous-marin",
   "siteName": "AquaPropulse",
   "domain": "https://meilleur-scooter-sous-marin.fr",
-  "lastUpdated": "2026-11-25T22:09:58.011Z",
+  "lastUpdated": "2026-11-26T14:28:12.953Z",
   "summary": {
-    "total": 22,
-    "relevantCount": 22,
+    "total": 36,
+    "relevantCount": 36,
     "irrelevantCount": 0,
     "longTitlesCount": 0
   },
@@ -20,16 +20,15 @@
       "shortDesc": "Un scooter sous-marin bi-moteur puissant et endurant, pensé pour le snorkeling, l'exploration des fonds marins et le loisir aquatique familial.",
       "categories": [
         "scooters-double-moteur",
-        "scooters-recreatifs-snorkeling",
-        "scooters-compacts-voyage"
+        "scooters-recreatifs-snorkeling"
       ],
       "words": 2393,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Scooter sous-marin bi-moteur complet destiné au snorkeling et à la baignade récréative.",
+      "reason": "Appareil complet de scooter sous-marin bi-moteur pour la baignade et le snorkeling.",
       "isTitleTooLong": false,
-      "suggestedTitle": "Asiwo Manta 2 Bi-Moteur",
-      "titleReason": "Titre harmonisé et suppression des parenthèses pour un rendu plus net."
+      "suggestedTitle": "Asiwo Manta 2 (Double Moteur)",
+      "titleReason": "Titre d'origine concis, précis et vendeur."
     },
     {
       "file": "asiwo-seascooter-bi-moteur.md",
@@ -46,10 +45,10 @@
       "words": 1947,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Appareil de propulsion aquatique complet à double moteur pour le snorkeling.",
+      "reason": "Scooter sous-marin récréatif bi-moteur complet.",
       "isTitleTooLong": false,
-      "suggestedTitle": "Asiwo Seascooter Bi-Moteur",
-      "titleReason": "Harmonisation des majuscules sur les termes clés."
+      "suggestedTitle": "Asiwo Seascooter bi-moteur",
+      "titleReason": "Titre d'origine clair et bien calibré."
     },
     {
       "file": "lefeet-p1-lite.md",
@@ -60,17 +59,57 @@
       "affiliateUrl": "https://www.amazon.fr/dp/B0F7HKD7TB/?tag=amazonwp0b-21",
       "shortDesc": "Découvrez notre test vérifié du Lefeet P1 Lite : un scooter sous-marin modulaire compact, performant pour le snorkeling, paddle et plongée.",
       "categories": [
+        "propulseurs-hybrides-paddle-kayak",
         "scooters-compacts-voyage",
-        "propulseurs-modulaires-paddle-kayak",
         "scooters-recreatifs-snorkeling"
       ],
       "words": 2069,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Scooter sous-marin modulaire compact complet pour plongée, snorkeling et paddle.",
+      "reason": "Propulseur sous-marin modulaire complet adapté à la plongée et au paddle.",
       "isTitleTooLong": false,
       "suggestedTitle": "Lefeet P1 Lite",
-      "titleReason": "Titre déjà court, clair et parfaitement identifiable."
+      "titleReason": "Titre d'origine sobre et percutant."
+    },
+    {
+      "file": "lefeet-trottinette-sous-marine-c1-a-deux-moteurs-autonomie-de-la-batterie-de-60-.md",
+      "slug": "lefeet-trottinette-sous-marine-c1-a-deux-moteurs-autonomie-de-la-batterie-de-60-",
+      "title": "LEFEET C1 Double Moteur",
+      "titleLength": 23,
+      "imageUrl": "https://m.media-amazon.com/images/I/614JWZ2EVfL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GKNKK8P9/?tag=amazonwp0b-21",
+      "shortDesc": "Analyse détaillée et test vérifié du LEFEET C1, un propulseur aquatique compact à double moteur avec autonomie de 60 minutes et étanchéité IPX8.",
+      "categories": [
+        "scooters-enfants-securises"
+      ],
+      "words": 1975,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Scooter sous-marin bi-moteur complet pour loisirs aquatiques et enfants.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "LEFEET C1 Double Moteur",
+      "titleReason": "Suppression du bourrage de mots-clés au profit d'un format Marque + Modèle + Spécificité clé."
+    },
+    {
+      "file": "nouveau-modele-2026-de-propulseur-sous-marin-scooter-des-mers-500-w-avec-batteri.md",
+      "slug": "nouveau-modele-2026-de-propulseur-sous-marin-scooter-des-mers-500-w-avec-batteri",
+      "title": "Propulseur Sous-Marin 500W Longue Autonomie",
+      "titleLength": 43,
+      "imageUrl": "https://m.media-amazon.com/images/I/71wo14dHtwL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GSGY6WX1/?tag=amazonwp0b-21",
+      "shortDesc": "Propulseur sous-marin 500 W conçu pour la plongée et le snorkeling. Moteur puissant, batterie longue durée et maniabilité optimale sous l'eau.",
+      "categories": [
+        "scooters-grande-autonomie",
+        "scooters-plongee-sous-marine",
+        "scooters-recreatifs-snorkeling"
+      ],
+      "words": 2142,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Propulseur sous-marin 500 W complet pour plongée et snorkeling.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Propulseur Sous-Marin 500W Longue Autonomie",
+      "titleReason": "Élimination des termes marketing parasites et focus sur la puissance et l'autonomie."
     },
     {
       "file": "omphobby-edge-k5.md",
@@ -81,16 +120,37 @@
       "affiliateUrl": "https://www.amazon.fr/dp/B0DDC5D563/?tag=amazonwp0b-21",
       "shortDesc": "Le scooter sous-marin OMPHOBBY Edge K5 allie compacité et poussée fluide pour le snorkeling récréatif. Retrouvez notre analyse technique complète.",
       "categories": [
-        "scooters-recreatifs-snorkeling",
-        "scooters-compacts-voyage"
+        "scooters-compacts-voyage",
+        "scooters-recreatifs-snorkeling"
       ],
       "words": 2329,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Machine complète de propulsion sous-marine récréative.",
+      "reason": "Scooter sous-marin compact complet pour le snorkeling récréatif.",
       "isTitleTooLong": false,
       "suggestedTitle": "OMPHOBBY Edge K5",
-      "titleReason": "Titre concis associant directement la marque et le modèle."
+      "titleReason": "Titre d'origine concis et idéal."
+    },
+    {
+      "file": "oryxearth-doppelmotor-pour-scooter-sous-marin-support-pour-camera-action-recycle.md",
+      "slug": "oryxearth-doppelmotor-pour-scooter-sous-marin-support-pour-camera-action-recycle",
+      "title": "ORYXEARTH Scooter Sous-Marin Double Moteur",
+      "titleLength": 42,
+      "imageUrl": "https://m.media-amazon.com/images/I/61g+wnDNWvL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0H7W87BW3/?tag=amazonwp0b-21",
+      "shortDesc": "Découvrez notre test vérifié du scooter sous-marin ORYXEARTH Doppelmotor : double moteur, étanchéité à 50 mètres et support caméra intégré.",
+      "categories": [
+        "scooters-double-moteur",
+        "scooters-apnee-immersion",
+        "scooters-recreatifs-snorkeling"
+      ],
+      "words": 1958,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Scooter sous-marin bi-moteur complet avec support caméra intégré.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "ORYXEARTH Scooter Sous-Marin Double Moteur",
+      "titleReason": "Nettoyage des termes allemands et suppression des mentions de labels superflues."
     },
     {
       "file": "propulseur-aquatique-polyvalent-500w.md",
@@ -101,16 +161,37 @@
       "affiliateUrl": "https://www.amazon.fr/dp/B0CJ2Z7NSF/?tag=amazonwp0b-21",
       "shortDesc": "Test vérifié du Propulseur Aquatique Polyvalent 500W : analyse technique, poussée moteur, autonomie en immersion et avis détaillé de nos experts.",
       "categories": [
-        "propulseurs-modulaires-paddle-kayak",
+        "scooters-apnee-immersion",
         "scooters-recreatifs-snorkeling"
       ],
       "words": 2098,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Système de propulsion motorisé complet pour paddle, kayak et immersion aquatique.",
+      "reason": "Appareil complet de propulsion aquatique pour l'apnée et la randonnée palmée.",
       "isTitleTooLong": false,
       "suggestedTitle": "Propulseur Aquatique Polyvalent 500W",
-      "titleReason": "Titre clair et descriptif de la motorisation principale."
+      "titleReason": "Titre d'origine équilibré et informatif."
+    },
+    {
+      "file": "propulseur-sous-marin-500-w-scooter-des-mers-avec-batterie-ultra-longue-autonomi.md",
+      "slug": "propulseur-sous-marin-500-w-scooter-des-mers-avec-batterie-ultra-longue-autonomi",
+      "title": "Scooter des Mers 500W Grande Autonomie",
+      "titleLength": 38,
+      "imageUrl": "https://m.media-amazon.com/images/I/61566bln0+L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GSH3VF7M/?tag=amazonwp0b-21",
+      "shortDesc": "Propulseur sous-marin 500 W pour plongée et snorkeling. Grande autonomie, poussée constante et maniabilité optimale testées par nos experts.",
+      "categories": [
+        "scooters-grande-autonomie",
+        "scooters-plongee-sous-marine",
+        "scooters-recreatifs-snorkeling"
+      ],
+      "words": 2230,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Scooter des mers 500 W complet à forte autonomie.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Scooter des Mers 500W Grande Autonomie",
+      "titleReason": "Suppression des répétitions et de l'énumération excessive d'activités."
     },
     {
       "file": "propulseur-sous-marin-500w-16ah.md",
@@ -122,16 +203,15 @@
       "shortDesc": "Propulseur sous-marin 500W avec batterie 16Ah : découvrez notre analyse technique complète, l'autonomie mesurée et notre avis d'expert vérifié.",
       "categories": [
         "scooters-grande-autonomie",
-        "propulseurs-modulaires-paddle-kayak",
-        "scooters-recreatifs-snorkeling"
+        "scooters-plongee-sous-marine"
       ],
       "words": 1763,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Propulseur sous-marin complet intégrant bloc moteur et batterie haute capacité.",
+      "reason": "Propulseur sous-marin complet avec motorisation et batterie haute capacité.",
       "isTitleTooLong": false,
       "suggestedTitle": "Propulseur Sous-Marin 500W 16Ah",
-      "titleReason": "Titre précis mettant en avant la puissance et la capacité de la batterie."
+      "titleReason": "Titre d'origine technique, précis et percutant."
     },
     {
       "file": "scooter-de-mer-electrique-500w.md",
@@ -142,16 +222,16 @@
       "affiliateUrl": "https://www.amazon.fr/dp/B0CH9ZZ7XP/?tag=amazonwp0b-21",
       "shortDesc": "Découvrez notre test vérifié du Scooter de Mer Électrique 500W : motorisation puissante, ergonomie soignée et sensations garanties sous l'eau.",
       "categories": [
-        "scooters-sous-marins-economiques",
-        "scooters-recreatifs-snorkeling"
+        "scooters-recreatifs-snorkeling",
+        "scooters-sous-marins-pas-cher"
       ],
       "words": 2138,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Scooter sous-marin électrique autonome complet pour exploration et baignade.",
+      "reason": "Machine complète de traction aquatique électrique.",
       "isTitleTooLong": false,
       "suggestedTitle": "Scooter de Mer Électrique 500W",
-      "titleReason": "Titre équilibré mettant en valeur la catégorie et la puissance."
+      "titleReason": "Titre d'origine sobre et efficace."
     },
     {
       "file": "scooter-sous-marin-500w-double-vitesse.md",
@@ -162,16 +242,16 @@
       "affiliateUrl": "https://www.amazon.fr/dp/B0GSJFG4QZ/?tag=amazonwp0b-21",
       "shortDesc": "Découvrez notre test vérifié du scooter sous-marin 500W : puissance, autonomie réelle et ergonomie aquatique analysées par nos spécialistes.",
       "categories": [
-        "scooters-sous-marins-economiques",
-        "scooters-recreatifs-snorkeling"
+        "scooters-recreatifs-snorkeling",
+        "scooters-sous-marins-pas-cher"
       ],
       "words": 1868,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Appareil complet de traction aquatique doté d'un variateur deux vitesses.",
+      "reason": "Scooter sous-marin complet avec sélecteur de vitesse pour snorkeling.",
       "isTitleTooLong": false,
-      "suggestedTitle": "Scooter Sous-Marin 500W Bi-Vitesse",
-      "titleReason": "Formulation plus fluide et percutante avec le terme bi-vitesse."
+      "suggestedTitle": "Scooter Sous-Marin 500W Double Vitesse",
+      "titleReason": "Titre d'origine clair et descriptif."
     },
     {
       "file": "scooter-sous-marin-bi-moteur-50m.md",
@@ -183,15 +263,16 @@
       "shortDesc": "Découvrez le scooter sous-marin bi-moteur 50 m : propulsion puissante, immersion jusqu'à 50 mètres et autonomie idéale pour l'exploration aquatique.",
       "categories": [
         "scooters-double-moteur",
+        "scooters-apnee-immersion",
         "scooters-plongee-sous-marine"
       ],
       "words": 1869,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Scooter sous-marin complet pour plongée profonde et immersion jusqu'à 50 mètres.",
+      "reason": "Appareil complet de propulsion sous-marine bi-moteur conforme à la ligne éditoriale.",
       "isTitleTooLong": false,
-      "suggestedTitle": "Scooter Sous-Marin Bi-Moteur 50 m",
-      "titleReason": "Harmonisation des majuscules et clarté sur la profondeur maximale."
+      "suggestedTitle": "Scooter sous-marin bi-moteur 50 m",
+      "titleReason": "Titre déjà concis, clair et informatif"
     },
     {
       "file": "scooter-sous-marin-bi-vitesse.md",
@@ -203,15 +284,34 @@
       "shortDesc": "Découvrez notre test vérifié du Scooter sous-marin bi-vitesse : propulsion modulable, autonomie sur l'eau et comportement dynamique en immersion.",
       "categories": [
         "scooters-recreatifs-snorkeling",
-        "scooters-sous-marins-economiques"
+        "scooters-sous-marins-pas-cher"
       ],
       "words": 2137,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Scooter sous-marin complet pour snorkeling et loisirs aquatiques.",
+      "reason": "Scooter sous-marin complet récréatif à vitesse réglable parfaitement ciblé.",
       "isTitleTooLong": false,
-      "suggestedTitle": "Scooter Sous-Marin Bi-Vitesse",
-      "titleReason": "Formatage soigné des majuscules sur l'ensemble des termes."
+      "suggestedTitle": "Scooter sous-marin bi-vitesse",
+      "titleReason": "Titre court, direct et percutant"
+    },
+    {
+      "file": "scooter-sous-marin-de-piscine-scooter-sous-marin-500-w-scooter-de-plongee-pour-s.md",
+      "slug": "scooter-sous-marin-de-piscine-scooter-sous-marin-500-w-scooter-de-plongee-pour-s",
+      "title": "Scooter sous-marin de piscine 500W",
+      "titleLength": 34,
+      "imageUrl": "https://m.media-amazon.com/images/I/7125UOD8buL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0DWVTZ7LY/?tag=amazonwp0b-21",
+      "shortDesc": "Test vérifié et avis complet sur le scooter sous-marin 500 W. Analyse de la propulsion, de l'autonomie et de la sécurité pour adultes et enfants.",
+      "categories": [
+        "scooters-enfants-securises"
+      ],
+      "words": 1847,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Appareil complet de propulsion 500 W pour loisirs aquatiques et piscine.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Scooter sous-marin de piscine 500W",
+      "titleReason": "Suppression des répétitions multiples et du bourrage de mots-clés Amazon"
     },
     {
       "file": "scooter-sous-marin-electrique-20m-double.md",
@@ -223,16 +323,15 @@
       "shortDesc": "Découvrez notre avis vérifié sur le Scooter Sous-Marin Électrique 20M Double : maniabilité aquatique, propulsion double moteur et autonomie réelle.",
       "categories": [
         "scooters-double-moteur",
-        "scooters-recreatifs-snorkeling",
-        "scooters-sous-marins-economiques"
+        "scooters-recreatifs-snorkeling"
       ],
       "words": 1980,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Scooter sous-marin complet à double hélice pour immersion jusqu'à 20 mètres.",
+      "reason": "Propulseur sous-marin électrique complet à double moteur pour immersion à 20 mètres.",
       "isTitleTooLong": false,
-      "suggestedTitle": "Scooter Sous-Marin Bi-Moteur 20 m",
-      "titleReason": "Remplacement de la mention ambiguë 'Double' par 'Bi-Moteur' et typographie épurée."
+      "suggestedTitle": "Scooter sous-marin électrique double moteur 20 m",
+      "titleReason": "Titre légèrement harmonisé pour valoriser la double propulsion"
     },
     {
       "file": "scooter-sous-marin-electrique-500w.md",
@@ -244,16 +343,36 @@
       "shortDesc": "Découvrez notre test vérifié du scooter sous-marin électrique 500W étanche à 30 m : motorisation, poussée, autonomie réelle et avis d'expert.",
       "categories": [
         "scooters-plongee-sous-marine",
-        "scooters-sous-marins-economiques",
-        "scooters-recreatifs-snorkeling"
+        "scooters-apnee-immersion"
       ],
       "words": 2130,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Machine sous-marine complète étanche à 30 mètres pour la plongée et le snorkeling.",
+      "reason": "Scooter sous-marin complet de 500 W étanche jusqu'à 30 mètres.",
       "isTitleTooLong": false,
-      "suggestedTitle": "Scooter Sous-Marin Électrique 500W 30 m",
-      "titleReason": "Suppression des parenthèses superflues pour un titre plus direct."
+      "suggestedTitle": "Scooter sous-marin électrique 500W (30 m)",
+      "titleReason": "Titre concis avec indication de la puissance et de la profondeur maximale"
+    },
+    {
+      "file": "scooter-sous-marin-electrique-700w-avec-poignee-autonomie-180-min-mer-scooter-ba.md",
+      "slug": "scooter-sous-marin-electrique-700w-avec-poignee-autonomie-180-min-mer-scooter-ba",
+      "title": "Scooter sous-marin électrique 700W (16000 mAh)",
+      "titleLength": 46,
+      "imageUrl": "https://m.media-amazon.com/images/I/61833ZqllRL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0H2X7SXCL/?tag=amazonwp0b-21",
+      "shortDesc": "Propulseur sous-marin 700W avec batterie 16000mAh et 9 allures. Découvrez notre test vérifié, les mesures d'autonomie et le bilan terrain.",
+      "categories": [
+        "scooters-grande-autonomie",
+        "scooters-plongee-sous-marine",
+        "scooters-recreatifs-snorkeling"
+      ],
+      "words": 2255,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Machine de propulsion aquatique complète de 700 W à forte autonomie.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Scooter sous-marin électrique 700W (16000 mAh)",
+      "titleReason": "Suppression des détails techniques superflus pour un titre vendeur et équilibré"
     },
     {
       "file": "scooter-sous-marin-ergonomique-longue-duree.md",
@@ -270,10 +389,69 @@
       "words": 2395,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Appareil complet de propulsion sous-marine axé sur l'autonomie et le snorkeling.",
+      "reason": "Propulseur sous-marin complet axé sur l'autonomie et l'ergonomie.",
       "isTitleTooLong": false,
-      "suggestedTitle": "Scooter Sous-Marin Ergonomique Longue Durée",
-      "titleReason": "Titre d'origine concis et équilibré."
+      "suggestedTitle": "Scooter sous-marin ergonomique longue durée",
+      "titleReason": "Titre sobre, clair et respectant la limite de caractères"
+    },
+    {
+      "file": "scooter-sous-marin-pour-adultes-propulseur-plongee-500-w-avec-batterie-au-lithiu.md",
+      "slug": "scooter-sous-marin-pour-adultes-propulseur-plongee-500-w-avec-batterie-au-lithiu",
+      "title": "Propulseur sous-marin 500W grande autonomie",
+      "titleLength": 43,
+      "imageUrl": "https://m.media-amazon.com/images/I/81AroJWQlDL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0HSMTP3J4/?tag=amazonwp0b-21",
+      "shortDesc": "Découvrez notre test vérifié du propulseur sous-marin 500W : puissance du moteur, autonomie de la batterie lithium et maniabilité en mer.",
+      "categories": [
+        "scooters-grande-autonomie",
+        "scooters-compacts-voyage",
+        "scooters-recreatifs-snorkeling"
+      ],
+      "words": 2412,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Propulseur aquatique 500 W complet pour adultes avec batterie lithium intégrée.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Propulseur sous-marin 500W grande autonomie",
+      "titleReason": "Élimination des termes redondants et des listes d'activités promotionnelles"
+    },
+    {
+      "file": "scooter-sous-marin-pour-enfant-75853.md",
+      "slug": "scooter-sous-marin-pour-enfant-75853",
+      "title": "Scooter Sous-marin Pour Enfant - 75853",
+      "titleLength": 38,
+      "imageUrl": "https://m.media-amazon.com/images/I/51NecGPDmvL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CPFH5WQ2/?tag=amazonwp0b-21",
+      "shortDesc": "Propulseur aquatique sécurisé pour enfant : test complet, vitesse adaptée, sécurité d'hélice et autonomie pour l'apprentissage en piscine.",
+      "categories": [
+        "scooters-enfants-securises"
+      ],
+      "words": 1953,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Appareil complet de propulsion récréative conçu pour l'initiation des enfants.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Scooter sous-marin pour enfant 75853",
+      "titleReason": "Titre court identifiant précisément le public cible et la référence"
+    },
+    {
+      "file": "scooter-sous-marin-propulseur-de-plongee-et-de-natation-helice-sous-marine-a-dou.md",
+      "slug": "scooter-sous-marin-propulseur-de-plongee-et-de-natation-helice-sous-marine-a-dou",
+      "title": "Scooter sous-marin 500W double vitesse",
+      "titleLength": 38,
+      "imageUrl": "https://m.media-amazon.com/images/I/713rRfODkLL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0DWW7GQZN/?tag=amazonwp0b-21",
+      "shortDesc": "Avis complet et test vérifié du scooter sous-marin 500W à double vitesse : étanchéité, autonomie, poussée et maniabilité aquatique passées au crible.",
+      "categories": [
+        "scooters-enfants-securises"
+      ],
+      "words": 1603,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Scooter sous-marin motorisé complet 500 W avec double hélice et variateur.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Scooter sous-marin 500W double vitesse",
+      "titleReason": "Suppression de l'énumération verbeuse des usages et maintien des éléments clés"
     },
     {
       "file": "sea-scooter-compact-650w.md",
@@ -290,10 +468,31 @@
       "words": 2151,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Scooter sous-marin complet et étanche jusqu'à 40 m pour la plongée.",
+      "reason": "Appareil principal de plongée compact de 650 W étanche à 40 mètres.",
       "isTitleTooLong": false,
       "suggestedTitle": "Sea Scooter Compact 650W (40 m)",
-      "titleReason": "Titre informatif, court et intégrant les spécifications clés."
+      "titleReason": "Titre court, percutant et mettant en avant la compacité et la puissance"
+    },
+    {
+      "file": "smaco-b2-scooter-sous-marin-propulseur-aquatique-portable-pour-adultes.md",
+      "slug": "smaco-b2-scooter-sous-marin-propulseur-aquatique-portable-pour-adultes",
+      "title": "SMACO B2 Scooter sous-marin portable",
+      "titleLength": 36,
+      "imageUrl": "https://m.media-amazon.com/images/I/61y-T3q1z3L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0HHDD9BKR/?tag=amazonwp0b-21",
+      "shortDesc": "Test vérifié du scooter sous-marin SMACO B2. Analyse de la vitesse de 1,8 m/s, autonomie de 56 min, ergonomie et fixation caméra pour plongée.",
+      "categories": [
+        "scooters-compacts-voyage",
+        "scooters-recreatifs-snorkeling",
+        "scooters-plongee-sous-marine"
+      ],
+      "words": 1994,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Scooter sous-marin complet SMACO B2 avec fixation caméra pour la plongée.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "SMACO B2 Scooter sous-marin portable",
+      "titleReason": "Suppression du pléonasme entre scooter et propulseur aquatique"
     },
     {
       "file": "smaco-b2.md",
@@ -305,16 +504,16 @@
       "shortDesc": "Test vérifié du scooter sous-marin SMACO B2 : vitesse jusqu'à 6,4 km/h, étanchéité à 60 m et support caméra pour plongée et snorkeling complets.",
       "categories": [
         "scooters-plongee-sous-marine",
-        "scooters-professionnels-exploration",
-        "scooters-recreatifs-snorkeling"
+        "scooters-compacts-voyage",
+        "scooters-apnee-immersion"
       ],
       "words": 2102,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Propulseur sous-marin complet pour plongée sous-marine et exploration.",
+      "reason": "Scooter sous-marin complet pour plongée et snorkeling avec support caméra.",
       "isTitleTooLong": false,
       "suggestedTitle": "SMACO B2 (60 m, 6,4 km/h)",
-      "titleReason": "Format idéal avec marque, modèle et performances principales."
+      "titleReason": "Titre concis, clair et directement vendeur avec ses performances clés."
     },
     {
       "file": "smaco-trottinette-sous-marine.md",
@@ -326,15 +525,15 @@
       "shortDesc": "Un scooter sous-marin polyvalent et accessible signé Smaco, conçu pour tracter les plongeurs et amateurs de snorkeling avec aisance et fluidité.",
       "categories": [
         "scooters-recreatifs-snorkeling",
-        "scooters-sous-marins-economiques"
+        "scooters-sous-marins-pas-cher"
       ],
       "words": 2611,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Machine de traction aquatique complète pour le snorkeling et la baignade.",
+      "reason": "Appareil de propulsion aquatique complet pour la traction et la baignade.",
       "isTitleTooLong": false,
-      "suggestedTitle": "SMACO Trottinette Sous-Marine",
-      "titleReason": "Harmonisation typographique de la marque et des majuscules."
+      "suggestedTitle": "SMACO Trottinette sous-marine",
+      "titleReason": "Titre sobre et identifiable."
     },
     {
       "file": "sublue-navbow-plus-orange.md",
@@ -345,17 +544,17 @@
       "affiliateUrl": "https://www.amazon.fr/dp/B096LS6ZQS/?tag=amazonwp0b-21",
       "shortDesc": "Découvrez notre test vérifié du Sublue Navbow Plus Smart Orange : caractéristiques, puissance du double moteur, ergonomie et avis terrain complet.",
       "categories": [
-        "scooters-plongee-sous-marine",
         "scooters-double-moteur",
-        "scooters-apnee-immersion"
+        "scooters-plongee-sous-marine",
+        "scooters-professionnels-exploration"
       ],
       "words": 1712,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Scooter sous-marin bi-moteur complet haut de gamme pour l'immersion.",
+      "reason": "Propulseur sous-marin bi-moteur complet haut de gamme pour l'exploration.",
       "isTitleTooLong": false,
       "suggestedTitle": "Sublue Navbow Plus Smart (Orange)",
-      "titleReason": "Titre clair identifiant bien la déclinaison couleur et le modèle."
+      "titleReason": "Titre bien proportionné associant marque, modèle et finition."
     },
     {
       "file": "sublue-navbow-plus.md",
@@ -366,17 +565,57 @@
       "affiliateUrl": "https://www.amazon.fr/dp/B0976TNTYD/?tag=amazonwp0b-21",
       "shortDesc": "Découvrez notre test vérifié du propulseur Sublue Navbow+. Analyse technique complète des 7,2 km/h, immersion à 40 m et autonomie réelle.",
       "categories": [
-        "scooters-plongee-sous-marine",
         "scooters-double-moteur",
-        "scooters-apnee-immersion"
+        "scooters-plongee-sous-marine",
+        "scooters-professionnels-exploration"
       ],
       "words": 1995,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Propulseur bi-moteur complet destiné à la plongée technique et à l'apnée.",
+      "reason": "Scooter sous-marin bi-moteur complet pour plongée bouteille et apnée.",
       "isTitleTooLong": false,
       "suggestedTitle": "Sublue Navbow+ (40 m, 7,2 km/h)",
-      "titleReason": "Titre précis et percutant avec vitesse et profondeur."
+      "titleReason": "Titre percutant mettant en avant la vitesse de pointe et l'étanchéité."
+    },
+    {
+      "file": "trottinette-sous-marine-electrique-de-500-w-40-m-pour-plongee-libre-plongee-avec.md",
+      "slug": "trottinette-sous-marine-electrique-de-500-w-40-m-pour-plongee-libre-plongee-avec",
+      "title": "Trottinette sous-marine électrique 500W (40 m, 4400 mAh)",
+      "titleLength": 56,
+      "imageUrl": "https://m.media-amazon.com/images/I/61kcCVdu8nL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0CLS1NM1T/?tag=amazonwp0b-21",
+      "shortDesc": "Test vérifié du scooter sous-marin 500 W étanche 40 m avec batterie amovible. Analyse technique, autonomie réelle et avis de nos spécialistes.",
+      "categories": [
+        "scooters-enfants-securises"
+      ],
+      "words": 2170,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Scooter sous-marin électrique autonome complet avec batterie amovible.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Trottinette sous-marine électrique 500W (40 m, 4400 mAh)",
+      "titleReason": "Suppression du bourrage de mots-clés Amazon au profit d'un format épuré."
+    },
+    {
+      "file": "tudiving-propulsion-sous-marine-amelioree-1-heure-d-autonomie-batterie-amovible-.md",
+      "slug": "tudiving-propulsion-sous-marine-amelioree-1-heure-d-autonomie-batterie-amovible-",
+      "title": "TUDIVING Scooter sous-marin (60 m, autonomie 1h)",
+      "titleLength": 48,
+      "imageUrl": "https://m.media-amazon.com/images/I/711VkOx9p+L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GYJ7S68K/?tag=amazonwp0b-21",
+      "shortDesc": "Découvrez notre test vérifié du scooter sous-marin TUDIVING : étanchéité 60 m, autonomie d'une heure et batterie amovible pour vos immersions.",
+      "categories": [
+        "scooters-plongee-sous-marine",
+        "scooters-apnee-immersion",
+        "scooters-sous-marins-pas-cher"
+      ],
+      "words": 2100,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Propulseur sous-marin complet étanche à 60 m avec support pour caméra d'action.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "TUDIVING Scooter sous-marin (60 m, autonomie 1h)",
+      "titleReason": "Raccourci drastique et élimination des répétitions promotionnelles."
     },
     {
       "file": "waydoo-subnado-kit-sup.md",
@@ -387,16 +626,16 @@
       "affiliateUrl": "https://www.amazon.fr/dp/B0BP6WL2XS/?tag=amazonwp0b-21",
       "shortDesc": "Test vérifié et avis détaillé sur le Waydoo Subnado Kit SUP. Découvrez le comportement aquatique, l'installation sur paddle et l'autonomie.",
       "categories": [
-        "propulseurs-modulaires-paddle-kayak",
+        "propulseurs-hybrides-paddle-kayak",
         "scooters-compacts-voyage"
       ],
       "words": 2066,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Système de propulsion modulaire complet adapté aux planches de stand up paddle et kayak.",
+      "reason": "Système de propulsion aquatique complet modulaire pour stand up paddle et kayak.",
       "isTitleTooLong": false,
       "suggestedTitle": "Waydoo Subnado Kit SUP",
-      "titleReason": "Titre court et explicite pour cette configuration paddle."
+      "titleReason": "Titre court, précis et parfaitement ciblé sur l'usage hybride."
     },
     {
       "file": "waydoo-subnado-lite.md",
@@ -408,16 +647,16 @@
       "shortDesc": "Découvrez notre avis vérifié sur le Waydoo Subnado Lite. Un propulseur sous-marin ultra-compact, puissant et adapté à toute la famille en piscine.",
       "categories": [
         "scooters-compacts-voyage",
-        "scooters-sous-marins-economiques",
-        "scooters-recreatifs-snorkeling"
+        "scooters-recreatifs-snorkeling",
+        "scooters-sous-marins-pas-cher"
       ],
       "words": 2436,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Propulseur aquatique ultra-compact complet pour usage récréatif et familial.",
+      "reason": "Scooter sous-marin compact complet adapté au snorkeling et aux loisirs nautiques.",
       "isTitleTooLong": false,
       "suggestedTitle": "Waydoo Subnado Lite",
-      "titleReason": "Titre d'origine parfait, sobre et direct."
+      "titleReason": "Titre sobre et fidèle à la gamme du fabricant."
     },
     {
       "file": "waydoo-subnado-plus.md",
@@ -429,16 +668,16 @@
       "shortDesc": "Découvrez notre analyse détaillée et test complet du scooter sous-marin compact Waydoo Subnado Plus 800W pour plongée, paddle et snorkeling.",
       "categories": [
         "scooters-compacts-voyage",
-        "propulseurs-modulaires-paddle-kayak",
+        "propulseurs-hybrides-paddle-kayak",
         "scooters-plongee-sous-marine"
       ],
       "words": 2330,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Scooter sous-marin compact complet haute puissance de 800W.",
+      "reason": "Propulseur aquatique compact complet avec motorisation renforcée de 800W.",
       "isTitleTooLong": false,
-      "suggestedTitle": "Waydoo Subnado Plus 800W",
-      "titleReason": "Suppression des parenthèses superflues pour un rendu plus net."
+      "suggestedTitle": "Waydoo Subnado Plus (800W)",
+      "titleReason": "Titre clair intégrant la puissance sans excès de termes."
     },
     {
       "file": "waydoo-subnado.md",
@@ -450,16 +689,56 @@
       "shortDesc": "Avis vérifié et test complet du scooter sous-marin Waydoo Subnado. Analyse technique, autonomie, ergonomie et verdict de nos spécialistes.",
       "categories": [
         "scooters-compacts-voyage",
-        "propulseurs-modulaires-paddle-kayak",
+        "propulseurs-hybrides-paddle-kayak",
         "scooters-recreatifs-snorkeling"
       ],
       "words": 2134,
       "isRelevant": true,
       "verdict": "CONFORME",
-      "reason": "Propulseur sous-marin modulaire complet de référence.",
+      "reason": "Scooter sous-marin de voyage compact et autonome complet.",
       "isTitleTooLong": false,
       "suggestedTitle": "Waydoo Subnado",
-      "titleReason": "Titre d'origine simple et parfaitement optimisé."
+      "titleReason": "Désignation originale optimale et immédiatement identifiable."
+    },
+    {
+      "file": "weimilor-800w-scooter-aquatique-pour-adultes-et-enfants-propulseur-de-natation-e.md",
+      "slug": "weimilor-800w-scooter-aquatique-pour-adultes-et-enfants-propulseur-de-natation-e",
+      "title": "WEIMILOR Scooter aquatique 800W",
+      "titleLength": 31,
+      "imageUrl": "https://m.media-amazon.com/images/I/71GvKsFbSwL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GS95GH21/?tag=amazonwp0b-21",
+      "shortDesc": "Test vérifié du scooter sous-marin WEIMILOR 800W pour natation et plongée. Retours techniques, maniabilité, autonomie et avis d'expert indépendant.",
+      "categories": [
+        "scooters-enfants-securises"
+      ],
+      "words": 1823,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Scooter aquatique complet de 800W pour natation, apnée et plongée récréative.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "WEIMILOR Scooter aquatique 800W",
+      "titleReason": "Suppression de la liste de synonymes et recentrage sur la marque et la puissance."
+    },
+    {
+      "file": "weimilor-kit-complet-scooter-sous-marin-2025-moteur-700w-batterie-16ah-detachabl.md",
+      "slug": "weimilor-kit-complet-scooter-sous-marin-2025-moteur-700w-batterie-16ah-detachabl",
+      "title": "WEIMILOR 700W Scooter sous-marin (40 m, batterie 16Ah)",
+      "titleLength": 54,
+      "imageUrl": "https://m.media-amazon.com/images/I/61zV0RsV5FL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0F8TV5HY1/?tag=amazonwp0b-21",
+      "shortDesc": "Test vérifié du scooter sous-marin WEIMILOR 700W avec batterie 16Ah et phare LED : analyse de la poussée, de l'autonomie et de la maniabilité.",
+      "categories": [
+        "scooters-grande-autonomie",
+        "scooters-plongee-sous-marine",
+        "scooters-apnee-immersion"
+      ],
+      "words": 2101,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Appareil sous-marin complet grande autonomie avec bloc moteur 700W et batterie 16Ah.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "WEIMILOR 700W Scooter sous-marin (40 m, batterie 16Ah)",
+      "titleReason": "Suppression des mentions temporelles et des superlatifs pour un titre professionnel."
     }
   ]
 }

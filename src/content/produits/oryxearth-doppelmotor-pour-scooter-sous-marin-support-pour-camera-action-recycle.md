@@ -1,12 +1,12 @@
 ---
-titre: "ORYXEARTH Doppelmotor pour scooter sous-marin, support pour caméra action Recycled Claim Standard Blended"
-titre_h1: "Avis ORYXEARTH Doppelmotor pour scooter sous-marin, support pour caméra action Recycled Claim Standard Blended"
+titre: "ORYXEARTH Scooter Sous-Marin Double Moteur"
+titre_h1: "Avis ORYXEARTH Scooter Sous-Marin Double Moteur"
 description_courte: "Découvrez notre test vérifié du scooter sous-marin ORYXEARTH Doppelmotor : double moteur, étanchéité à 50 mètres et support caméra intégré."
 description_longue: "Analyse technique détaillée du scooter sous-marin ORYXEARTH Doppelmotor doté d'une propulsion à double hélice, d'un châssis éco-conçu certifié Recycled Claim Standard Blended et d'une étanchéité certifiée jusqu'à 50 mètres. Conçu pour le snorkeling et la plongée loisir, il embarque une fixation pour caméra embarquée, une alarme de batterie et une sécurité enfant."
 categories: ["scooters-double-moteur","scooters-apnee-immersion","scooters-recreatifs-snorkeling"]
 image_url: "https://m.media-amazon.com/images/I/61g+wnDNWvL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0H7W87BW3/?tag=amazonwp0b-21"
-meta_title: "Avis ORYXEARTH Doppelmotor pour scooter sous-marin, support pour caméra action Recycled Claim Standard Blended"
+meta_title: "Avis ORYXEARTH Scooter Sous-Marin Double Moteur"
 meta_description: "Avis complet et test vérifié sur le scooter ORYXEARTH Doppelmotor étanche à 50m. Découvrez les performances, autonomie et notre verdict d'expert."
 avis_clients:
   - auteur: "Warren W."

@@ -1,12 +1,12 @@
 ---
-titre: "Trottinette sous-marine électrique de 500 W, 40 m, pour plongée libre, plongée avec tuba, moteur sans balais, batterie amovible pour piscine (500 W 4400 mAh)"
-titre_h1: "Avis Trottinette sous-marine électrique de 500 W, 40 m, pour plongée libre, plongée avec tuba, moteur sans balais, batterie amovible pour piscine (500 W 4400 mAh)"
+titre: "Trottinette sous-marine électrique 500W (40 m, 4400 mAh)"
+titre_h1: "Avis Trottinette sous-marine électrique 500W (40 m, 4400 mAh)"
 description_courte: "Test vérifié du scooter sous-marin 500 W étanche 40 m avec batterie amovible. Analyse technique, autonomie réelle et avis de nos spécialistes."
 description_longue: "Découvrez notre test vérifié complet sur la trottinette sous-marine électrique 500 W avec batterie 4400 mAh. Une analyse détaillée de la poussée, de l'étanchéité à 40 mètres, de l'ergonomie et des retours d'expérience terrain."
 categories: ["scooters-enfants-securises"]
 image_url: "https://m.media-amazon.com/images/I/61kcCVdu8nL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0CLS1NM1T/?tag=amazonwp0b-21"
-meta_title: "Avis Trottinette sous-marine électrique de 500 W, 40 m, pour plongée libre, plongée avec tuba, moteur sans balais, batterie amovible pour piscine (500 W 4400 mAh)"
+meta_title: "Avis Trottinette sous-marine électrique 500W (40 m, 4400 mAh)"
 meta_description: "Avis complet et test vérifié sur ce scooter sous-marin 500 W étanche à 40 m. Performances réelles, autonomie, points forts et notre verdict d'expert."
 avis_clients:
   - auteur: "Alexandre M."
