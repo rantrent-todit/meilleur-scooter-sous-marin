@@ -1,4 +1,5 @@
 ---
+marque: "Générique"
 titre: "Scooter des Mers 500W Grande Autonomie"
 titre_h1: "Avis Scooter des Mers 500W Grande Autonomie"
 description_courte: "Propulseur sous-marin 500 W pour plongée et snorkeling. Grande autonomie, poussée constante et maniabilité optimale testées par nos experts."
@@ -6,7 +7,7 @@ description_longue: "Découvrez notre évaluation complète et notre test vérif
 categories: ["scooters-grande-autonomie","scooters-plongee-sous-marine","scooters-recreatifs-snorkeling"]
 image_url: "https://m.media-amazon.com/images/I/61566bln0+L._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0GSH3VF7M/?tag=amazonwp0b-21"
-meta_title: "Avis Scooter des Mers 500W Grande Autonomie"
+meta_title: "Avis Scooter des Mers 500W Grande Autonomie : Test et Prix"
 meta_description: "Avis et test vérifié du propulseur sous-marin 500 W : autonomie réelle, poussée aquatique, points forts et verdict complet de nos spécialistes."
 avis_clients:
   - auteur: "Alexandre M."

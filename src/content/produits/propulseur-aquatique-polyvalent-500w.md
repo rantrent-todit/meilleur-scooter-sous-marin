@@ -1,4 +1,5 @@
 ---
+marque: "Générique"
 titre: "Propulseur Aquatique Polyvalent 500W"
 titre_h1: "Avis Propulseur Aquatique Polyvalent 500W"
 description_courte: "Test vérifié du Propulseur Aquatique Polyvalent 500W : analyse technique, poussée moteur, autonomie en immersion et avis détaillé de nos experts."
@@ -6,7 +7,7 @@ description_longue: "Découvrez notre évaluation complète et notre avis vérif
 categories: ["scooters-apnee-immersion","scooters-recreatifs-snorkeling"]
 image_url: "https://m.media-amazon.com/images/I/61g5kA5pQWL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0CJ2Z7NSF/?tag=amazonwp0b-21"
-meta_title: "Avis Propulseur Aquatique Polyvalent 500W"
+meta_title: "Avis Propulseur Aquatique Polyvalent 500W : Test et Prix"
 meta_description: "Avis complet et test vérifié sur le Propulseur Aquatique Polyvalent 500W. Découvrez ses performances réelles, son autonomie et notre verdict."
 avis_clients:
   - auteur: "Alexandre M."

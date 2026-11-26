@@ -1,4 +1,5 @@
 ---
+marque: "Générique"
 titre: "Propulseur Sous-Marin 500W 16Ah"
 titre_h1: "Avis Propulseur Sous-Marin 500W 16Ah"
 description_courte: "Propulseur sous-marin 500W avec batterie 16Ah : découvrez notre analyse technique complète, l'autonomie mesurée et notre avis d'expert vérifié."
@@ -6,7 +7,7 @@ description_longue: "Analyse détaillée du propulseur sous-marin 500W 16Ah : é
 categories: ["scooters-grande-autonomie","scooters-plongee-sous-marine"]
 image_url: "https://m.media-amazon.com/images/I/614T4FosFvL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0FCYXS9TX/?tag=amazonwp0b-21"
-meta_title: "Avis Propulseur Sous-Marin 500W 16Ah"
+meta_title: "Avis Propulseur Sous-Marin 500W 16Ah : Test et Prix"
 meta_description: "Avis complet et test vérifié sur le Propulseur Sous-Marin 500W 16Ah : autonomie réelle, poussée, ergonomie et verdict technique de nos experts."
 avis_clients:
   - auteur: "Alexandre M."

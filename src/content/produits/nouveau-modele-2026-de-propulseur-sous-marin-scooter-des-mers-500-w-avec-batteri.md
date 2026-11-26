@@ -1,4 +1,5 @@
 ---
+marque: "Générique"
 titre: "Propulseur Sous-Marin 500W Longue Autonomie"
 titre_h1: "Avis Propulseur Sous-Marin 500W Longue Autonomie"
 description_courte: "Propulseur sous-marin 500 W conçu pour la plongée et le snorkeling. Moteur puissant, batterie longue durée et maniabilité optimale sous l'eau."
@@ -6,7 +7,7 @@ description_longue: "Découvrez notre test vérifié complet de ce propulseur so
 categories: ["scooters-grande-autonomie","scooters-plongee-sous-marine","scooters-recreatifs-snorkeling"]
 image_url: "https://m.media-amazon.com/images/I/71wo14dHtwL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0GSGY6WX1/?tag=amazonwp0b-21"
-meta_title: "Avis Propulseur Sous-Marin 500W Longue Autonomie"
+meta_title: "Avis Propulseur Sous-Marin 500W Longue Autonomie : Test et Prix"
 meta_description: "Avis complet et test vérifié sur ce scooter sous-marin 500 W. Découvrez les performances réelles, l'autonomie et notre verdict d'expert sur l'appareil."
 avis_clients:
   - auteur: "Alexandre M."
