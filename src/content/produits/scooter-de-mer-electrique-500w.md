@@ -1,13 +1,13 @@
 ---
 marque: "XUSHENSHOPS"
-titre: "XUSHENSHOPS XUSHENSHOPS Scooter de Mer Électrique 500W"
-titre_h1: "Avis XUSHENSHOPS XUSHENSHOPS Scooter de Mer Électrique 500W"
+titre: "XUSHENSHOPS Scooter de Mer 500W"
+titre_h1: "Avis XUSHENSHOPS Scooter de Mer 500W"
 description_courte: "Découvrez notre test vérifié du XUSHENSHOPS Scooter de Mer Électrique 500W : motorisation puissante, ergonomie soignée et sensations garanties sous l'eau."
 description_longue: "Analyse technique et détaillée du XUSHENSHOPS Scooter de Mer Électrique 500W sur AquaPropulse. Retours d'expérience, autonomie, vitesse et avis de nos experts."
 categories: ["scooters-recreatifs-snorkeling","scooters-sous-marins-pas-cher"]
 image_url: "https://m.media-amazon.com/images/I/61xFXaosBTL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0CH9ZZ7XP/?tag=amazonwp0b-21"
-meta_title: "Avis XUSHENSHOPS XUSHENSHOPS Scooter de Mer Électrique 500W : Test et Prix"
+meta_title: "Avis XUSHENSHOPS Scooter de Mer 500W"
 meta_description: "Avis complet et test vérifié sur le XUSHENSHOPS Scooter de Mer Électrique 500W. Analyse des performances, autonomie et verdict de nos spécialistes."
 avis_clients:
   - auteur: "Michael S."

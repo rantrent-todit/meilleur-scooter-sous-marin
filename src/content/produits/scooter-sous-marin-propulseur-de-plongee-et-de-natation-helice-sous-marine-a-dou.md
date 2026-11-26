@@ -1,13 +1,13 @@
 ---
 marque: "XIAOFENG-SHOP"
-titre: "XIAOFENG-SHOP XIAOFENG-SHOP Scooter sous-marin 500W double vitesse"
-titre_h1: "Avis XIAOFENG-SHOP XIAOFENG-SHOP Scooter sous-marin 500W double vitesse"
+titre: "XIAOFENG Scooter sous-marin 500W bi-vitesse"
+titre_h1: "Avis XIAOFENG Scooter sous-marin 500W bi-vitesse"
 description_courte: "Avis complet et test vérifié du scooter sous-marin 500W à double vitesse : étanchéité, autonomie, poussée et maniabilité aquatique passées au crible."
 description_longue: "Découvrez notre analyse technique détaillée et notre test vérifié du scooter sous-marin 500W. Conçu pour la piscine, la randonnée palmée et l'exploration côtière, ce propulseur aquatique compact propose deux vitesses de propulsion pour tracter nageurs et plongeurs sans effort superflu."
 categories: ["scooters-enfants-securises"]
 image_url: "https://m.media-amazon.com/images/I/713rRfODkLL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0DWW7GQZN/?tag=amazonwp0b-21"
-meta_title: "Avis XIAOFENG-SHOP XIAOFENG-SHOP Scooter sous-marin 500W double vitesse : Test et Prix"
+meta_title: "Avis XIAOFENG Scooter sous-marin 500W bi-vitesse"
 meta_description: "Avis et test vérifié sur le scooter sous-marin 500W AquaPropulse : double vitesse, autonomie, étanchéité en mer et verdict technique complet."
 avis_clients:
   - auteur: "Alexandre M."
