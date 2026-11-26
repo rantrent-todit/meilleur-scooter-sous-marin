@@ -1,12 +1,13 @@
 ---
-titre: "Scooter sous-marin électrique 500W (30 m)"
-titre_h1: "Avis Scooter sous-marin électrique 500W (30 m)"
+marque: "Dfdieratve"
+titre: "Dfdieratve Dfdieratve Scooter sous-marin électrique 500W (30 m)"
+titre_h1: "Avis Dfdieratve Dfdieratve Scooter sous-marin électrique 500W (30 m)"
 description_courte: "Découvrez notre test vérifié du scooter sous-marin électrique 500W étanche à 30 m : motorisation, poussée, autonomie réelle et avis d'expert."
 description_longue: "Analyse approfondie et retour d'expérience complet sur le propulseur aquatique 500W conçu pour l'immersion jusqu'à 30 mètres. Puissance, maniabilité, autonomie et sécurité passées au crible."
 categories: ["scooters-plongee-sous-marine","scooters-apnee-immersion"]
 image_url: "https://m.media-amazon.com/images/I/616F5ptbqOL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0D91HKQXZ/?tag=amazonwp0b-21"
-meta_title: "Avis Scooter sous-marin électrique 500W (30 m)"
+meta_title: "Avis Dfdieratve Dfdieratve Scooter sous-marin électrique 500W (30 m) : Test et Prix"
 meta_description: "Avis complet et test vérifié sur le scooter sous-marin électrique 500W (30 m). Analyse technique, autonomie réelle et verdict de nos experts."
 avis_clients:
   - auteur: "Alexandre M."

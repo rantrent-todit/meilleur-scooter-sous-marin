@@ -1,12 +1,13 @@
 ---
-titre: "Propulseur sous-marin 500W grande autonomie"
-titre_h1: "Avis Propulseur sous-marin 500W grande autonomie"
+marque: "HuanSebesity"
+titre: "HuanSebesity HuanSebesity Propulseur sous-marin 500W grande autonomie"
+titre_h1: "Avis HuanSebesity HuanSebesity Propulseur sous-marin 500W grande autonomie"
 description_courte: "Découvrez notre test vérifié du propulseur sous-marin 500W : puissance du moteur, autonomie de la batterie lithium et maniabilité en mer."
 description_longue: "Analyse technique approfondie et avis vérifié sur le scooter sous-marin 500 W pour adultes. Conception étanche, comportement hydrodynamique, endurance de la batterie lithium et retours d'expérience concrets en conditions réelles."
 categories: ["scooters-grande-autonomie","scooters-compacts-voyage","scooters-recreatifs-snorkeling"]
 image_url: "https://m.media-amazon.com/images/I/81AroJWQlDL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0HSMTP3J4/?tag=amazonwp0b-21"
-meta_title: "Avis Propulseur sous-marin 500W grande autonomie"
+meta_title: "Avis HuanSebesity HuanSebesity Propulseur sous-marin 500W grande autonomie : Test et Prix"
 meta_description: "Avis et test vérifié du scooter sous-marin 500W pour adultes. Analyse technique, autonomie, étanchéité et performances réelles en mer."
 avis_clients:
   - auteur: "Alexandre M."
